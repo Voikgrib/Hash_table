@@ -1,9 +1,9 @@
-buffer[0]######################################################################################################
-buffer[1]#
-buffer[2]#
-buffer[3]
+buffer[0]
+buffer[1]
+buffer[2]
+buffer[3] -> curiosity
 buffer[4]
-buffer[5]#
+buffer[5]
 buffer[6]
 buffer[7]
 buffer[8]
@@ -13,7 +13,7 @@ buffer[11]
 buffer[12]
 buffer[13]
 buffer[14]
-buffer[15]
+buffer[15] -> nervously
 buffer[16]
 buffer[17]
 buffer[18]
@@ -39,89 +39,89 @@ buffer[37]
 buffer[38]
 buffer[39]
 buffer[40]
-buffer[41]
+buffer[41] -> abandoning
 buffer[42]
 buffer[43]
 buffer[44]
 buffer[45]
 buffer[46]
 buffer[47]
-buffer[48]
+buffer[48] -> remembered
 buffer[49]
 buffer[50]
 buffer[51]
 buffer[52]
-buffer[53]#
-buffer[54]#
+buffer[53]
+buffer[54] -> flickering
 buffer[55]
-buffer[56]
-buffer[57]
+buffer[56] -> frightened
+buffer[57] -> determined
 buffer[58]
 buffer[59]
-buffer[60]
+buffer[60] -> suffocated
 buffer[61]
 buffer[62]
-buffer[63]#
+buffer[63]
 buffer[64]
 buffer[65]
 buffer[66]
-buffer[67]#
-buffer[68]##
-buffer[69]
+buffer[67] -> glimmering
+buffer[68]
+buffer[69] -> churchyard
 buffer[70]
-buffer[71]
-buffer[72]
-buffer[73]#
-buffer[74]
-buffer[75]
+buffer[71] -> unoccupied
+buffer[72] -> pretending
+buffer[73]
+buffer[74] -> identities
+buffer[75] -> hangletons
 buffer[76]
 buffer[77]
-buffer[78]
+buffer[78] -> excitement -> moderately
 buffer[79]
-buffer[80]
+buffer[80] -> understand -> protracted
 buffer[81]
 buffer[82]
 buffer[83]
 buffer[84]
 buffer[85]
-buffer[86]
+buffer[86] -> completely
 buffer[87]
-buffer[88]#
+buffer[88] -> apparently -> unfriendly
 buffer[89]
 buffer[90]
 buffer[91]
-buffer[92]
-buffer[93]#
+buffer[92] -> frustrated
+buffer[93] -> everything
 buffer[94]
-buffer[95]
-buffer[96]
-buffer[97]
+buffer[95] -> impressive -> distinctly
+buffer[96] -> suggestion
+buffer[97] -> a
 buffer[98]
 buffer[99]
-buffer[100]#
-buffer[101]#################################################################
-buffer[102]################################################################
+buffer[100] -> d
+buffer[101]
+buffer[102] -> downstairs
 buffer[103]
-buffer[104]#
-buffer[105]
+buffer[104]
+buffer[105] -> i
 buffer[106]
 buffer[107]
-buffer[108]
-buffer[109]#
-buffer[110]#######################################################
-buffer[111]#########################################################################
-buffer[112]########
+buffer[108] -> stubbornly -> mistrusted
+buffer[109] -> m -> thoroughly
+buffer[110]
+buffer[111]
+buffer[112]
 buffer[113]
-buffer[114]######
-buffer[115]#############################
-buffer[116]########################################
+buffer[114]
+buffer[115] -> s
+buffer[116] -> t -> substitute
 buffer[117]
-buffer[118]#
+buffer[118]
 buffer[119]
 buffer[120]
-buffer[121]###########
+buffer[121]
 buffer[122]
-buffer[123]
+buffer[123] -> vigorously
 buffer[124]
 buffer[125]
 buffer[126]
@@ -152,27 +152,27 @@ buffer[150]
 buffer[151]
 buffer[152]
 buffer[153]
-buffer[154]
+buffer[154] -> embroidered
 buffer[155]
 buffer[156]
 buffer[157]
 buffer[158]
 buffer[159]
 buffer[160]
-buffer[161]
+buffer[161] -> brandishing
 buffer[162]
-buffer[163]#
-buffer[164]
+buffer[163]
+buffer[164] -> neighboring
 buffer[165]
-buffer[166]
+buffer[166] -> comfortable
 buffer[167]
 buffer[168]
 buffer[169]
 buffer[170]
-buffer[171]#
+buffer[171]
 buffer[172]
-buffer[173]
-buffer[174]
+buffer[173] -> inhabitants
+buffer[174] -> effectively
 buffer[175]
 buffer[176]
 buffer[177]
@@ -182,9 +182,9 @@ buffer[180]
 buffer[181]
 buffer[182]
 buffer[183]
-buffer[184]#
+buffer[184]
 buffer[185]
-buffer[186]#
+buffer[186]
 buffer[187]
 buffer[188]
 buffer[189]
@@ -192,52 +192,52 @@ buffer[190]
 buffer[191]
 buffer[192]
 buffer[193]
-buffer[194]#
+buffer[194]
 buffer[195]
 buffer[196]
-buffer[197]##############################################
+buffer[197]
 buffer[198]
-buffer[199]
-buffer[200]###
-buffer[201]
-buffer[202]###
+buffer[199] -> overlooking -> be
+buffer[200]
+buffer[201] -> ah
+buffer[202]
 buffer[203]
-buffer[204]######
-buffer[205]#############################################################################################################################################################################################################
-buffer[206]
-buffer[207]###########
-buffer[208]########
-buffer[209]#
-buffer[210]###################################################################
-buffer[211]###############
-buffer[212]####################################
-buffer[213]
-buffer[214]###############
-buffer[215]#############
-buffer[216]#####################
-buffer[217]#######
-buffer[218]########
-buffer[219]
-buffer[220]###############################
-buffer[221]####
-buffer[222]#######
-buffer[223]
+buffer[204]
+buffer[205] -> he
+buffer[206] -> questioning -> am
+buffer[207] -> if -> an
+buffer[208]
+buffer[209]
+buffer[210] -> me -> noiselessly
+buffer[211] -> do
+buffer[212] -> as
+buffer[213] -> of -> at
+buffer[214] -> go
+buffer[215] -> in
+buffer[216]
+buffer[217]
+buffer[218]
+buffer[219] -> ve -> by -> expressions
+buffer[220] -> we -> is
+buffer[221] -> it -> on -> no
+buffer[222]
+buffer[223] -> mr
 buffer[224]
-buffer[225]#########################
-buffer[226]
-buffer[227]##############
-buffer[228]#########
-buffer[229]####
-buffer[230]##########
-buffer[231]############
-buffer[232]####
-buffer[233]################
+buffer[225] -> or
+buffer[226] -> so
+buffer[227] -> to
+buffer[228]
+buffer[229] -> up
+buffer[230] -> my
+buffer[231]
+buffer[232]
+buffer[233]
 buffer[234]
-buffer[235]#
+buffer[235]
 buffer[236]
 buffer[237]
-buffer[238]#
-buffer[239]##
+buffer[238]
+buffer[239]
 buffer[240]
 buffer[241]
 buffer[242]
@@ -269,7 +269,7 @@ buffer[267]
 buffer[268]
 buffer[269]
 buffer[270]
-buffer[271]
+buffer[271] -> dramatically
 buffer[272]
 buffer[273]
 buffer[274]
@@ -278,81 +278,81 @@ buffer[276]
 buffer[277]
 buffer[278]
 buffer[279]
-buffer[280]
+buffer[280] -> unmistakable
 buffer[281]
-buffer[282]
+buffer[282] -> bewilderment
 buffer[283]
 buffer[284]
 buffer[285]
 buffer[286]
 buffer[287]
 buffer[288]
-buffer[289]
+buffer[289] -> grandparents
 buffer[290]
 buffer[291]
 buffer[292]
 buffer[293]
 buffer[294]
-buffer[295]
+buffer[295] -> bad
 buffer[296]
-buffer[297]##
-buffer[298]########
+buffer[297]
+buffer[298]
 buffer[299]
-buffer[300]###
-buffer[301]
-buffer[302]#####################
-buffer[303]###########
-buffer[304]
-buffer[305]#
-buffer[306]#####
-buffer[307]########
-buffer[308]##
-buffer[309]#
-buffer[310]########
-buffer[311]#######
-buffer[312]############################
-buffer[313]#########
-buffer[314]######
-buffer[315]######################
-buffer[316]####################
-buffer[317]#################################
-buffer[318]##########
-buffer[319]############
-buffer[320]######
-buffer[321]#########
-buffer[322]#######
-buffer[323]#
-buffer[324]#############
-buffer[325]#################
-buffer[326]#####################
-buffer[327]##
-buffer[328]##########
-buffer[329]############
-buffer[330]####
-buffer[331]####
-buffer[332]######
-buffer[333]##################
-buffer[334]##########
-buffer[335]
-buffer[336]#######################
-buffer[337]#################
-buffer[338]
-buffer[339]###
-buffer[340]#######
-buffer[341]
-buffer[342]####
+buffer[300]
+buffer[301] -> had -> age
+buffer[302]
+buffer[303]
+buffer[304] -> nevertheless
+buffer[305] -> ice -> did
+buffer[306] -> can -> big
+buffer[307] -> and
+buffer[308]
+buffer[309] -> bar
+buffer[310]
+buffer[311] -> ago -> odd -> end
+buffer[312] -> sad -> leg -> kid -> gap -> are -> ear -> act
+buffer[313] -> all -> far
+buffer[314]
+buffer[315] -> off
+buffer[316] -> man -> has
+buffer[317] -> see
+buffer[318] -> him -> day
+buffer[319] -> old -> her -> ask
+buffer[320] -> she -> get -> dug
+buffer[321] -> the -> ill -> don
+buffer[322] -> one
+buffer[323]
+buffer[324] -> his
+buffer[325] -> let -> icy
+buffer[326] -> lay
+buffer[327] -> for -> pub -> dot -> may
+buffer[328] -> any -> cup
+buffer[329] -> key -> lit
+buffer[330] -> war -> boy -> new -> pay -> got
+buffer[331] -> was -> but -> saw -> hot
+buffer[332] -> set
+buffer[333] -> say -> use -> tax
+buffer[334] -> mix -> who -> how
+buffer[335] -> nor
+buffer[336] -> its -> son -> tom -> buy
+buffer[337] -> not -> way
+buffer[338] -> mrs -> too -> yet
+buffer[339]
+buffer[340] -> now
+buffer[341] -> run
+buffer[342]
 buffer[343]
-buffer[344]#
-buffer[345]
-buffer[346]
-buffer[347]####
-buffer[348]###
-buffer[349]
+buffer[344] -> ivy -> out -> why
+buffer[345] -> put
+buffer[346] -> two
+buffer[347]
+buffer[348]
+buffer[349] -> you
 buffer[350]
-buffer[351]
+buffer[351] -> try
 buffer[352]
 buffer[353]
-buffer[354]#
+buffer[354]
 buffer[355]
 buffer[356]
 buffer[357]
@@ -396,78 +396,78 @@ buffer[394]
 buffer[395]
 buffer[396]
 buffer[397]
-buffer[398]
-buffer[399]
-buffer[400]
-buffer[401]
-buffer[402]
-buffer[403]
-buffer[404]###
-buffer[405]####
-buffer[406]
-buffer[407]
+buffer[398] -> dead
+buffer[399] -> face
+buffer[400] -> deaf
+buffer[401] -> back -> each
+buffer[402] -> head
+buffer[403] -> idea -> bald
+buffer[404] -> able
+buffer[405]
+buffer[406] -> came
+buffer[407] -> made
 buffer[408]
 buffer[409]
-buffer[410]
-buffer[411]##
-buffer[412]#########
-buffer[413]##
-buffer[414]
-buffer[415]############
-buffer[416]##############
-buffer[417]######
-buffer[418]#####
-buffer[419]#####
-buffer[420]############################
-buffer[421]###
-buffer[422]###
-buffer[423]###
-buffer[424]#####################
-buffer[425]#
-buffer[426]####
-buffer[427]##########
-buffer[428]############################################################
-buffer[429]####
-buffer[430]########
-buffer[431]####
-buffer[432]##
-buffer[433]########
-buffer[434]####
-buffer[435]####
-buffer[436]################
-buffer[437]############
-buffer[438]##########
-buffer[439]#########
-buffer[440]##
-buffer[441]###
-buffer[442]#######
+buffer[410] -> been
+buffer[411] -> half -> maid -> amid -> care -> code
+buffer[412] -> feel -> read -> dare -> case -> need
+buffer[413]
+buffer[414] -> fact -> beds -> ease -> ajar
+buffer[415] -> didn -> hard -> fall
+buffer[416] -> hear -> life -> high
+buffer[417] -> find -> said -> hall -> neck
+buffer[418] -> fine -> damp -> cold -> dark -> pale
+buffer[419] -> knee
+buffer[420] -> have -> come -> here -> feet
+buffer[421] -> once -> like -> side -> keep
+buffer[422] -> tale -> same -> rich -> near -> fire -> gold -> done
+buffer[423] -> team -> hold
+buffer[424] -> bore
+buffer[425] -> hill -> wide -> else -> gone -> lock -> good
+buffer[426] -> rode
+buffer[427] -> seen -> tend -> than -> ears -> plan
+buffer[428] -> cook -> week
+buffer[429] -> milk -> much
+buffer[430] -> even -> them -> fast
+buffer[431] -> then
+buffer[432] -> rude -> none -> long -> wall -> fool
+buffer[433] -> that -> tell -> days -> hook -> sign -> lord -> dull
+buffer[434] -> when -> open -> ever -> wind
+buffer[435] -> were -> more -> told -> such -> full -> task
+buffer[436] -> some -> from -> what -> well -> kept -> loud -> door -> last
+buffer[437] -> many -> drop -> look -> knew -> sink -> wait
+buffer[438] -> roof -> eyes -> tone -> note -> woke
+buffer[439] -> part -> move
+buffer[440] -> down -> this -> will -> lest
+buffer[441]
+buffer[442] -> into -> they -> brow
 buffer[443]
-buffer[444]########################
-buffer[445]#
-buffer[446]####
-buffer[447]
-buffer[448]
-buffer[449]##
-buffer[450]#
-buffer[451]###
+buffer[444] -> over -> with -> step -> word
+buffer[445] -> room -> boys -> took
+buffer[446] -> shot -> went
+buffer[447] -> sure -> next -> soon -> know
+buffer[448] -> dust -> true
+buffer[449] -> stay
+buffer[450] -> rush -> only -> upon -> lost
+buffer[451] -> most
 buffer[452]
 buffer[453]
-buffer[454]#####
-buffer[455]#
-buffer[456]#
+buffer[454] -> very -> just -> duty
+buffer[455]
+buffer[456] -> town
 buffer[457]
-buffer[458]#
+buffer[458]
 buffer[459]
 buffer[460]
 buffer[461]
-buffer[462]#
-buffer[463]
+buffer[462]
+buffer[463] -> your
 buffer[464]
 buffer[465]
 buffer[466]
 buffer[467]
 buffer[468]
-buffer[469]#
+buffer[469]
 buffer[470]
 buffer[471]
 buffer[472]
@@ -503,85 +503,85 @@ buffer[501]
 buffer[502]
 buffer[503]
 buffer[504]
-buffer[505]
+buffer[505] -> edged
 buffer[506]
 buffer[507]
-buffer[508]#
-buffer[509]
-buffer[510]#
-buffer[511]##
-buffer[512]###
-buffer[513]
-buffer[514]###############
+buffer[508]
+buffer[509] -> black
+buffer[510]
+buffer[511] -> cared
+buffer[512] -> again
+buffer[513] -> magic
+buffer[514]
 buffer[515]
-buffer[516]#
-buffer[517]#
-buffer[518]
-buffer[519]##
-buffer[520]##
-buffer[521]#####
-buffer[522]####
-buffer[523]
-buffer[524]##########
-buffer[525]###
-buffer[526]#
-buffer[527]##
-buffer[528]#
-buffer[529]#####
-buffer[530]#
-buffer[531]##
-buffer[532]#####
-buffer[533]##########
-buffer[534]#
-buffer[535]###
-buffer[536]###
-buffer[537]#######
-buffer[538]#####
-buffer[539]########
-buffer[540]##########
-buffer[541]######
-buffer[542]########
-buffer[543]#####
-buffer[544]##
-buffer[545]#####
-buffer[546]###########
-buffer[547]######
-buffer[548]#
-buffer[549]#####
-buffer[550]##
-buffer[551]#####
-buffer[552]######
-buffer[553]####
-buffer[554]########
-buffer[555]#
-buffer[556]#
-buffer[557]
-buffer[558]######
-buffer[559]####
-buffer[560]##
+buffer[516] -> heard
+buffer[517] -> place -> being
+buffer[518] -> death -> decay
+buffer[519] -> cried -> clear -> climb -> chair
+buffer[520] -> habit
+buffer[521] -> liked
+buffer[522] -> cloak -> fetch
+buffer[523] -> large
+buffer[524]
+buffer[525] -> leave
+buffer[526] -> odder -> hands
+buffer[527] -> alone -> creep
+buffer[528] -> trade -> slice -> patch
+buffer[529] -> clink -> makes
+buffer[530] -> since -> frank -> after
+buffer[531] -> great -> which -> broke -> taken -> thick -> grate
+buffer[532] -> lived -> going -> speak
+buffer[533] -> bryce -> meant
+buffer[534] -> older -> voice -> blast
+buffer[535] -> could -> cloud -> awoke -> timid -> hairs -> watch
+buffer[536] -> there -> three -> likes -> apart -> weeds -> light -> later -> tired
+buffer[537] -> cuppa -> while -> these -> might -> small
+buffer[538] -> miles -> night -> stand -> thing
+buffer[539] -> about -> spare -> dingy -> where
+buffer[540] -> their -> stiff -> twice
+buffer[541] -> manor -> owned -> smell -> shone -> heavy
+buffer[542] -> right -> stick -> noise -> think -> pause -> doubt -> sense
+buffer[543] -> whole -> allow -> sight -> witch
+buffer[544] -> never -> nerve
+buffer[545] -> tiles -> midst
+buffer[546] -> times -> fifty -> woman -> floor -> spoke
+buffer[547] -> lying -> water
+buffer[548] -> house -> years -> owing -> signs -> spies
+buffer[549] -> lawns
+buffer[550] -> proof -> harry
+buffer[551]
+buffer[552] -> still -> quite -> quiet -> looks -> first -> world
+buffer[553] -> stood -> front -> sound -> stone
+buffer[554]
+buffer[555] -> every -> owner -> would
+buffer[556] -> upper -> fully -> until
+buffer[557] -> grown -> wrong
+buffer[558]
+buffer[559] -> nasty -> words
+buffer[560] -> worse -> funny -> short
 buffer[561]
-buffer[562]#
+buffer[562] -> knows
 buffer[563]
 buffer[564]
-buffer[565]#
+buffer[565]
 buffer[566]
-buffer[567]
-buffer[568]#
+buffer[567] -> truth
+buffer[568]
 buffer[569]
 buffer[570]
-buffer[571]
+buffer[571] -> sorts
 buffer[572]
 buffer[573]
 buffer[574]
 buffer[575]
 buffer[576]
-buffer[577]
+buffer[577] -> story
 buffer[578]
 buffer[579]
 buffer[580]
 buffer[581]
 buffer[582]
-buffer[583]
+buffer[583] -> rusty
 buffer[584]
 buffer[585]
 buffer[586]
@@ -600,7 +600,7 @@ buffer[598]
 buffer[599]
 buffer[600]
 buffer[601]
-buffer[602]##
+buffer[602]
 buffer[603]
 buffer[604]
 buffer[605]
@@ -608,76 +608,76 @@ buffer[606]
 buffer[607]
 buffer[608]
 buffer[609]
-buffer[610]#
+buffer[610]
 buffer[611]
 buffer[612]
-buffer[613]#
+buffer[613] -> called
 buffer[614]
-buffer[615]#
-buffer[616]
-buffer[617]
-buffer[618]#
-buffer[619]
-buffer[620]###
-buffer[621]
-buffer[622]#########
-buffer[623]##
-buffer[624]##
-buffer[625]##
-buffer[626]##
-buffer[627]
-buffer[628]###
-buffer[629]###############
-buffer[630]############
-buffer[631]#
-buffer[632]
-buffer[633]##
-buffer[634]#
-buffer[635]#####
-buffer[636]
+buffer[615] -> hanged
+buffer[616] -> agreed
+buffer[617] -> barked -> menace
+buffer[618]
+buffer[619] -> become
+buffer[620] -> hidden
+buffer[621] -> haired
+buffer[622]
+buffer[623]
+buffer[624] -> picked
+buffer[625] -> scarce -> harmed -> garden
+buffer[626]
+buffer[627] -> before -> seemed -> forced
+buffer[628] -> riddle
+buffer[629] -> killed
+buffer[630] -> breath -> bodies -> health -> nagini
+buffer[631]
+buffer[632] -> places
+buffer[633] -> deaths
+buffer[634]
+buffer[635] -> buried -> limped -> opened -> finger -> double
+buffer[636] -> police -> second -> caught
 buffer[637]
-buffer[638]#
-buffer[639]####
-buffer[640]####
-buffer[641]######
-buffer[642]#####
-buffer[643]#####
-buffer[644]#########
-buffer[645]#
-buffer[646]####
-buffer[647]########
-buffer[648]##
-buffer[649]########
-buffer[650]####
-buffer[651]#
-buffer[652]#####
-buffer[653]########
-buffer[654]##
-buffer[655]###
-buffer[656]#####
-buffer[657]###
-buffer[658]##
-buffer[659]#
-buffer[660]#######
-buffer[661]#
-buffer[662]
-buffer[663]#
-buffer[664]######
-buffer[665]
-buffer[666]#######
-buffer[667]####
-buffer[668]#
-buffer[669]##
-buffer[670]
+buffer[638] -> looked
+buffer[639] -> amused
+buffer[640] -> dinner
+buffer[641] -> broken -> either -> groped -> beyond
+buffer[642] -> family -> notice
+buffer[643] -> wanted -> deeply -> sudden -> cannot
+buffer[644] -> causes -> hardly -> laying
+buffer[645] -> people
+buffer[646] -> enough -> better -> secret
+buffer[647] -> easily -> longer
+buffer[648] -> creepy -> wasted -> reason -> graves -> closer -> earwax
+buffer[649] -> around -> corner -> kettle -> voices
+buffer[650] -> anyone -> stayed -> bottle
+buffer[651] -> nobody -> drinks -> across -> lights -> retire -> slight
+buffer[652] -> worked -> rising
+buffer[653] -> things -> temper
+buffer[654] -> little -> merely -> sparse
+buffer[655] -> though -> silent -> flower -> should -> wonder
+buffer[656] -> almost -> moving -> moment -> myself
+buffer[657] -> noises -> always -> toward -> wizard
+buffer[658] -> topics -> roused -> turned -> crowds
+buffer[659] -> within
+buffer[660]
+buffer[661] -> gossip -> sliver
+buffer[662] -> stairs
+buffer[663] -> person -> punish
+buffer[664] -> fourth
+buffer[665] -> summer -> wouldn -> august -> narrow
+buffer[666] -> smooth
+buffer[667]
+buffer[668] -> report -> partly -> stones
+buffer[669] -> sherry -> hungry -> trying
+buffer[670] -> terror -> owners -> potter
 buffer[671]
 buffer[672]
-buffer[673]
-buffer[674]#
+buffer[673] -> softly
+buffer[674]
 buffer[675]
 buffer[676]
 buffer[677]
 buffer[678]
-buffer[679]#
+buffer[679]
 buffer[680]
 buffer[681]
 buffer[682]
@@ -687,7 +687,7 @@ buffer[685]
 buffer[686]
 buffer[687]
 buffer[688]
-buffer[689]#
+buffer[689]
 buffer[690]
 buffer[691]
 buffer[692]
@@ -712,81 +712,81 @@ buffer[710]
 buffer[711]
 buffer[712]
 buffer[713]
-buffer[714]
+buffer[714] -> changed
 buffer[715]
-buffer[716]
+buffer[716] -> reached
 buffer[717]
-buffer[718]
+buffer[718] -> dragged
 buffer[719]
 buffer[720]
-buffer[721]
-buffer[722]
-buffer[723]#
+buffer[721] -> boarded -> absence
+buffer[722] -> feeding
+buffer[723]
 buffer[724]
-buffer[725]
+buffer[725] -> stabbed
 buffer[726]
 buffer[727]
-buffer[728]
-buffer[729]##
-buffer[730]
-buffer[731]
-buffer[732]#
-buffer[733]#####
-buffer[734]###
-buffer[735]##
+buffer[728] -> because
+buffer[729] -> teenage
+buffer[730] -> feeling
+buffer[731] -> offered -> decency
+buffer[732] -> hanging
+buffer[733] -> landing -> gnarled -> meddler
+buffer[734]
+buffer[735]
 buffer[736]
-buffer[737]###
-buffer[738]
-buffer[739]
-buffer[740]###
-buffer[741]##
-buffer[742]##
-buffer[743]
-buffer[744]#
-buffer[745]#
-buffer[746]
-buffer[747]#
-buffer[748]####
-buffer[749]
-buffer[750]#
-buffer[751]##
-buffer[752]
-buffer[753]##
-buffer[754]
-buffer[755]#
-buffer[756]##
-buffer[757]#######
-buffer[758]#
-buffer[759]#
-buffer[760]##########
-buffer[761]######
-buffer[762]
-buffer[763]##
-buffer[764]#
-buffer[765]
-buffer[766]#
-buffer[767]
-buffer[768]
-buffer[769]###
-buffer[770]
-buffer[771]
-buffer[772]#
-buffer[773]#
-buffer[774]#
+buffer[737] -> shocked -> pitched
+buffer[738] -> seethed -> pricked -> proceed
+buffer[739] -> nodding -> muffled
+buffer[740] -> village -> nearing -> passage
+buffer[741] -> dislike -> filling -> fearful
+buffer[742] -> leaving -> details -> excited -> paining -> kitchen
+buffer[743] -> entered -> riddles -> cottage -> doubted -> against
+buffer[744] -> judging -> himself -> forcing -> concern -> allowed
+buffer[745] -> eagerly -> perfect -> casting -> surface
+buffer[746] -> hundred -> objects -> dressed
+buffer[747] -> contend
+buffer[748] -> drawing
+buffer[749] -> arrived -> walking -> wearing
+buffer[750]
+buffer[751] -> healthy -> neither -> lighter
+buffer[752] -> weather -> limping
+buffer[753] -> elderly -> glimpse -> another
+buffer[754] -> largest -> roaring -> several -> assumed -> sounded -> forgive
+buffer[755] -> looking -> perhaps -> stiffer -> hurried -> rotated
+buffer[756] -> strange -> yelling -> foolish -> muggles
+buffer[757] -> buildup
+buffer[758]
+buffer[759] -> started -> natural -> nothing
+buffer[760] -> greatly
+buffer[761] -> plainly -> grunted
+buffer[762] -> missing -> morning -> propped
+buffer[763] -> anymore -> reasons -> closely
+buffer[764]
+buffer[765] -> knowing -> seventh -> parents
+buffer[766] -> discuss -> doctors -> wealthy -> pushing
+buffer[767] -> stopped -> explore
+buffer[768] -> however -> whoever -> further
+buffer[769] -> working -> through
+buffer[770] -> murders -> grounds -> station -> quickly
+buffer[771] -> thought
+buffer[772] -> towards -> wizards -> pouring
+buffer[773]
+buffer[774] -> version -> nursing
 buffer[775]
-buffer[776]##
-buffer[777]
-buffer[778]#
-buffer[779]
-buffer[780]#
-buffer[781]
-buffer[782]#
+buffer[776]
+buffer[777] -> quality
+buffer[778] -> century -> serious
+buffer[779] -> windows
+buffer[780] -> journey
+buffer[781] -> unusual -> quietly
+buffer[782] -> seventy
 buffer[783]
-buffer[784]#
-buffer[785]#
-buffer[786]###
+buffer[784]
+buffer[785]
+buffer[786]
 buffer[787]
-buffer[788]
+buffer[788] -> country -> without
 buffer[789]
 buffer[790]
 buffer[791]
@@ -819,91 +819,91 @@ buffer[817]
 buffer[818]
 buffer[819]
 buffer[820]
-buffer[821]#
+buffer[821]
 buffer[822]
 buffer[823]
 buffer[824]
 buffer[825]
 buffer[826]
 buffer[827]
-buffer[828]
+buffer[828] -> checking
 buffer[829]
 buffer[830]
-buffer[831]
-buffer[832]
+buffer[831] -> breathed
+buffer[832] -> believed -> belonged
 buffer[833]
-buffer[834]#
-buffer[835]
+buffer[834] -> appeared
+buffer[835] -> daybreak
 buffer[836]
-buffer[837]
-buffer[838]#
+buffer[837] -> happened -> remained
+buffer[838] -> inclined
 buffer[839]
-buffer[840]##
+buffer[840] -> gardener
 buffer[841]
-buffer[842]##
-buffer[843]
-buffer[844]
-buffer[845]#
-buffer[846]#####
-buffer[847]
-buffer[848]#
+buffer[842]
+buffer[843] -> examined
+buffer[844] -> derelict
+buffer[845]
+buffer[846] -> building -> rewarded -> bicycles -> overhead
+buffer[847] -> remember
+buffer[848] -> landlord -> relieved
 buffer[849]
 buffer[850]
-buffer[851]####
+buffer[851]
 buffer[852]
-buffer[853]#
-buffer[854]#
-buffer[855]
-buffer[856]######
-buffer[857]
-buffer[858]##
-buffer[859]######
-buffer[860]#
-buffer[861]#
-buffer[862]#
-buffer[863]##
-buffer[864]#
-buffer[865]##
-buffer[866]#
+buffer[853]
+buffer[854]
+buffer[855] -> horrible -> sleeping -> birthday -> blessing -> scraping
+buffer[856] -> grandest -> snobbish -> murdered -> standing -> listened -> obsessed
+buffer[857] -> suitable
+buffer[858] -> arrested
+buffer[859]
+buffer[860] -> although -> followed
+buffer[861] -> invented -> amounted -> disguise
+buffer[862] -> innocent -> croakily -> inserted
+buffer[863]
+buffer[864]
+buffer[865] -> poisoned
+buffer[866] -> anything -> tumbling
 buffer[867]
 buffer[868]
-buffer[869]#
-buffer[870]####
-buffer[871]
-buffer[872]#
-buffer[873]
-buffer[874]#
-buffer[875]#
-buffer[876]#
-buffer[877]
-buffer[878]##
-buffer[879]
+buffer[869] -> lordship
+buffer[870] -> murderer -> stranger
+buffer[871] -> removing -> sounding
+buffer[872] -> summoned -> suddenly -> devotion
+buffer[873] -> returned
+buffer[874] -> identity
+buffer[875]
+buffer[876] -> starting
+buffer[877] -> everyone -> activity
+buffer[878] -> furrowed
+buffer[879] -> wormtail
 buffer[880]
-buffer[881]#
-buffer[882]
-buffer[883]#
+buffer[881]
+buffer[882] -> throwing -> attempts
+buffer[883]
 buffer[884]
 buffer[885]
 buffer[886]
-buffer[887]#
-buffer[888]
-buffer[889]#
+buffer[887] -> intently
+buffer[888] -> security
+buffer[889]
 buffer[890]
-buffer[891]
+buffer[891] -> upstairs
 buffer[892]
-buffer[893]
-buffer[894]
-buffer[895]
+buffer[893] -> surprise
+buffer[894] -> nostrils
+buffer[895] -> ministry
 buffer[896]
-buffer[897]#
+buffer[897]
 buffer[898]
 buffer[899]
 buffer[900]
-buffer[901]
+buffer[901] -> suppress
 buffer[902]
 buffer[903]
-buffer[904]##
-buffer[905]#
+buffer[904]
+buffer[905]
 buffer[906]
 buffer[907]
 buffer[908]
@@ -932,69 +932,69 @@ buffer[930]
 buffer[931]
 buffer[932]
 buffer[933]
-buffer[934]#
-buffer[935]
+buffer[934]
+buffer[935] -> exchanged
 buffer[936]
 buffer[937]
-buffer[938]
+buffer[938] -> unchecked
 buffer[939]
 buffer[940]
 buffer[941]
 buffer[942]
-buffer[943]
-buffer[944]#
-buffer[945]#
+buffer[943] -> gardening
+buffer[944]
+buffer[945] -> concluded -> concerned
 buffer[946]
 buffer[947]
 buffer[948]
 buffer[949]
 buffer[950]
 buffer[951]
-buffer[952]##
-buffer[953]
-buffer[954]##
-buffer[955]
-buffer[956]
-buffer[957]###
-buffer[958]
-buffer[959]
-buffer[960]#
-buffer[961]
-buffer[962]
-buffer[963]#
-buffer[964]#
+buffer[952]
+buffer[953] -> screaming
+buffer[954] -> difficult
+buffer[955] -> announced
+buffer[956] -> refilling -> tightened
+buffer[957] -> spreading
+buffer[958] -> firesides
+buffer[959] -> repeating -> quidditch
+buffer[960] -> hangleton
+buffer[961] -> disguised
+buffer[962] -> criminals
+buffer[963] -> disrepair
+buffer[964] -> telephone
 buffer[965]
 buffer[966]
 buffer[967]
-buffer[968]#
-buffer[969]##
-buffer[970]#
-buffer[971]##
-buffer[972]
-buffer[973]
-buffer[974]
+buffer[968]
+buffer[969] -> villagers -> continued -> mullioned
+buffer[970] -> protected
+buffer[971] -> certainly
+buffer[972] -> wearisome
+buffer[973] -> listening
+buffer[974] -> something
 buffer[975]
 buffer[976]
-buffer[977]#
-buffer[978]
-buffer[979]
+buffer[977] -> following
+buffer[978] -> tormented
+buffer[979] -> strangles
 buffer[980]
-buffer[981]#
-buffer[982]
+buffer[981] -> obsession -> stiffness
+buffer[982] -> cavernous
 buffer[983]
-buffer[984]
-buffer[985]
+buffer[984] -> squeakily
+buffer[985] -> strangely
 buffer[986]
-buffer[987]#
-buffer[988]
-buffer[989]
-buffer[990]##
-buffer[991]#
-buffer[992]#
-buffer[993]##
+buffer[987]
+buffer[988] -> pottering
+buffer[989] -> suspicion
+buffer[990]
+buffer[991] -> fervently
+buffer[992] -> intruders
+buffer[993] -> surprised
 buffer[994]
-buffer[995]#
-buffer[996]
+buffer[995]
+buffer[996] -> volunteer
 buffer[997]
-buffer[998]
-buffer[999]#
+buffer[998] -> unpopular
+buffer[999] -> footsteps

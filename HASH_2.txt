@@ -95,31 +95,31 @@ buffer[93]
 buffer[94]
 buffer[95]
 buffer[96]
-buffer[97]#########################################################################################################################################################################################################################################################
-buffer[98]##############################################################################################################
-buffer[99]################################################################################
-buffer[100]########################################################################################
-buffer[101]##########################################
-buffer[102]##############################################################################################################################
-buffer[103]################################
-buffer[104]#########################################################################################################################################################################################################
-buffer[105]#####################################################################################################################################
-buffer[106]####
-buffer[107]######################
-buffer[108]#########################################################################
-buffer[109]###################################################################################
-buffer[110]##################################################################
-buffer[111]##################################################################################################################################
-buffer[112]###############################################################
-buffer[113]##########
-buffer[114]################################################################
-buffer[115]#####################################################################################################################################################################################
-buffer[116]###############################################################################################################################################################################################################################################################################################################################################################################################################
-buffer[117]#########################
-buffer[118]######################################
-buffer[119]#######################################################################################################################################################################
+buffer[97] -> a -> and -> around -> all -> agreed -> ago -> anymore -> at -> as -> about -> anything -> apparently -> arrived -> announced -> arrested -> alone -> always -> after -> ah -> ask -> an -> anyone -> again -> any -> appeared -> apart -> amid -> absence -> amounted -> almost -> amused -> across -> awoke -> august -> assumed -> attempts -> age -> allow -> against -> although -> ajar -> able -> are -> act -> activity -> am -> another -> allowed -> abandoning
+buffer[98] -> been -> boarded -> building -> before -> breath -> bryce -> back -> buy -> bar -> barked -> broken -> big -> by -> but -> boy -> bodies -> bewilderment -> be -> being -> buried -> because -> birthday -> bad -> beds -> boys -> bicycles -> broke -> brandishing -> believed -> bottle -> bore -> blessing -> black -> beyond -> belonged -> blast -> better -> bald -> brow -> buildup -> breathed -> become
+buffer[99] -> called -> creepy -> century -> could -> cold -> curiosity -> cared -> causes -> cook -> cried -> cottage -> come -> crowds -> cuppa -> can -> creep -> corner -> came -> changed -> concluded -> continued -> churchyard -> cloud -> concerned -> care -> clear -> contend -> croakily -> case -> completely -> cavernous -> climb -> casting -> closer -> clink -> chair -> caught -> cloak -> comfortable -> cannot -> cup -> country -> checking -> code -> criminals -> closely -> certainly -> concern
+buffer[100] -> damp -> derelict -> discuss -> daybreak -> drawing -> dead -> down -> dinner -> disguised -> did -> drop -> dramatically -> dislike -> drinks -> details -> didn -> door -> do -> dark -> dot -> doubted -> dingy -> day -> deaths -> doctors -> determined -> death -> don -> decency -> d -> disrepair -> days -> deaf -> dare -> devotion -> downstairs -> deeply -> dressed -> decay -> dust -> dull -> dragged -> doubt -> dug -> duty -> double -> distinctly -> done -> disguise -> difficult
+buffer[101] -> even -> easily -> embroidered -> every -> entered -> eyes -> excitement -> elderly -> ever -> eagerly -> else -> exchanged -> enough -> excited -> everything -> examined -> each -> everyone -> either -> ease -> ears -> end -> edged -> ear -> explore -> earwax -> expressions -> effectively
+buffer[102] -> family -> from -> face -> fine -> for -> fifty -> find -> feel -> firesides -> frank -> fourth -> far -> forced -> funny -> fervently -> following -> fact -> frustrated -> frightened -> feeling -> fall -> flower -> further -> filling -> flickering -> fire -> fast -> fully -> front -> full -> footsteps -> feet -> floor -> fearful -> first -> feeding -> furrowed -> foolish -> finger -> forgive -> fool -> followed -> forcing -> fetch
+buffer[103] -> grandest -> gossip -> grown -> gardener -> grounds -> great -> grunted -> get -> go -> graves -> garden -> gardening -> grandparents -> gone -> got -> glimmering -> going -> groped -> gap -> gold -> grate -> glimpse -> greatly -> good -> gnarled
+buffer[104] -> hangleton -> house -> had -> hill -> hangletons -> half -> horrible -> happened -> however -> healthy -> hanged -> have -> he -> hear -> her -> him -> hundred -> hard -> hanging -> hardly -> haired -> harmed -> health -> his -> heard -> here -> how -> habit -> hot -> hurried -> hook -> hidden -> himself -> hall -> hungry -> high -> hairs -> heavy -> head -> has -> hold -> harry -> hands
+buffer[105] -> it -> its -> ivy -> inhabitants -> in -> impressive -> into -> ice -> ill -> if -> identity -> i -> innocent -> invented -> idea -> intruders -> intently -> is -> icy -> inclined -> inserted -> identities
+buffer[106] -> just -> judging -> journey
+buffer[107] -> kept -> key -> kid -> killed -> knowing -> knows -> keep -> knew -> kitchen -> knee -> kettle -> know
+buffer[108] -> little -> lived -> looking -> largest -> liked -> lying -> leaving -> leg -> loud -> listening -> like -> likes -> life -> last -> looks -> look -> landlord -> let -> leave -> long -> lawns -> limping -> limped -> looked -> lights -> light -> lock -> lighter -> large -> lay -> landing -> lit -> listened -> lord -> later -> longer -> lest -> lordship -> lost -> laying
+buffer[109] -> many -> missing -> manor -> miles -> morning -> maid -> most -> mr -> mrs -> murderer -> man -> murders -> midst -> more -> m -> mix -> me -> murdered -> might -> made -> merely -> mistrusted -> mullioned -> muffled -> moving -> my -> move -> milk -> may -> moderately -> moment -> meddler -> ministry -> magic -> muggles -> meant -> menace -> much -> myself -> makes
+buffer[110] -> now -> nobody -> not -> natural -> night -> never -> noises -> no -> nasty -> nodding -> neighboring -> near -> none -> note -> next -> neither -> new -> nor -> nearing -> noiselessly -> nevertheless -> nostrils -> narrow -> neck -> noise -> nagini -> nervously -> need -> notice -> nerve -> nothing -> nursing
+buffer[111] -> of -> on -> overlooking -> over -> once -> old -> older -> open -> out -> odd -> offered -> only -> odder -> or -> objects -> owners -> owned -> owner -> obsession -> one -> off -> opened -> overhead -> owing -> obsessed
+buffer[112] -> picked -> places -> place -> people -> police -> pretending -> plainly -> pub -> person -> pale -> poisoned -> perfect -> proof -> perhaps -> partly -> put -> pay -> pottering -> part -> parents -> punish -> paining -> propped -> pricked -> passage -> pitched -> pushing -> patch -> pause -> plan -> proceed -> pouring -> potter -> protracted -> protected
+buffer[113] -> quite -> quiet -> quality -> questioning -> quidditch -> quietly -> quickly
+buffer[114] -> riddle -> roof -> room -> riddles -> run -> roused -> rich -> rude -> roaring -> rewarded -> rush -> reason -> remember -> right -> repeating -> report -> read -> remained -> returned -> reasons -> rode -> refilling -> removing -> rusty -> reached -> remembered -> retire -> rotated -> rising -> relieved
+buffer[115] -> still -> since -> stood -> some -> spreading -> something -> strange -> scarce -> story -> so -> sure -> started -> same -> summer -> s -> screaming -> she -> summoned -> seethed -> shocked -> sad -> snobbish -> son -> seemed -> suddenly -> silent -> several -> stiff -> sherry -> said -> spare -> sleeping -> side -> station -> stubbornly -> seen -> stranger -> such -> serious -> stabbed -> shot -> strangles -> suffocated -> surprise -> suspicion -> say -> stayed -> seventy -> seventh -> stiffer -> starting -> suppress -> stones -> smooth -> see -> stick -> saw -> step -> stiffness -> standing -> sink -> soon -> set -> sign -> smell -> sound -> stairs -> stone -> shone -> sliver -> slice -> surprised -> stopped -> spoke -> sounded -> second -> strangely -> sudden -> sparse -> stand -> surface -> scraping -> small -> sight -> stay -> should -> signs -> security -> secret -> sorts -> speak -> spies -> slight -> softly -> squeakily -> short -> suitable -> sense -> sounding -> substitute -> suggestion
+buffer[116] -> the -> though -> there -> tiles -> that -> to -> topics -> times -> truth -> tale -> three -> their -> things -> they -> tom -> trade -> turned -> thought -> told -> t -> then -> temper -> town -> teenage -> team -> tell -> tone -> terror -> them -> tend -> these -> tax -> than -> try -> throwing -> through -> twice -> tormented -> telephone -> taken -> took -> towards -> thick -> this -> timid -> too -> toward -> think -> tired -> trying -> two -> tightened -> tumbling -> thing -> true -> thoroughly -> task
+buffer[117] -> unchecked -> unoccupied -> unpopular -> up -> unfriendly -> unmistakable -> upon -> use -> upper -> upstairs -> until -> understand -> unusual
+buffer[118] -> villagers -> village -> version -> very -> ve -> voices -> voice -> vigorously -> volunteer
+buffer[119] -> windows -> was -> when -> were -> what -> well -> with -> wide -> whole -> wasted -> worse -> war -> working -> wanted -> woman -> who -> while -> we -> wouldn -> wrong -> whoever -> which -> wealthy -> weather -> weeds -> worked -> woke -> water -> would -> walking -> wall -> where -> way -> within -> wind -> wormtail -> wearing -> went -> will -> week -> world -> word -> why -> wait -> wizards -> watch -> words -> without -> witch -> wizard -> wonder -> wearisome
 buffer[120]
-buffer[121]###############
+buffer[121] -> years -> you -> yelling -> yet -> your
 buffer[122]
 buffer[123]
 buffer[124]

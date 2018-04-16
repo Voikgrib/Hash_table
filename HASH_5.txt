@@ -1,1000 +1,1000 @@
 buffer[0]
-buffer[1]##
-buffer[2]##
+buffer[1] -> he -> and
+buffer[2] -> she -> the
 buffer[3]
-buffer[4]#
-buffer[5]###
-buffer[6]#####
+buffer[4] -> frank
+buffer[5] -> he -> the -> no
+buffer[6] -> down -> sad -> as -> in -> harry
 buffer[7]
-buffer[8]##
-buffer[9]#
-buffer[10]##
-buffer[11]###
-buffer[12]#
-buffer[13]###
-buffer[14]##
-buffer[15]###
-buffer[16]###
-buffer[17]#######
+buffer[8] -> suddenly -> wormtail
+buffer[9] -> said
+buffer[10] -> out -> was
+buffer[11] -> but -> the -> sliver
+buffer[12] -> been
+buffer[13] -> and -> being -> difficult
+buffer[14] -> the -> makes
+buffer[15] -> they -> the -> set
+buffer[16] -> a -> all -> back
+buffer[17] -> i -> house -> into -> lit -> strangely -> be -> so
 buffer[18]
-buffer[19]#
-buffer[20]#
+buffer[19] -> most
+buffer[20] -> the
 buffer[21]
-buffer[22]###
-buffer[23]##
-buffer[24]#######
-buffer[25]#
-buffer[26]##
-buffer[27]##
+buffer[22] -> had -> stayed -> said
+buffer[23] -> s -> rusty
+buffer[24] -> been -> healthy -> stubbornly -> for -> he -> softly -> wizard
+buffer[25] -> into
+buffer[26] -> say -> short
+buffer[27] -> very -> it
 buffer[28]
-buffer[29]#
-buffer[30]###
-buffer[31]#
-buffer[32]##
-buffer[33]##
+buffer[29] -> tiles
+buffer[30] -> the -> end -> hands
+buffer[31] -> sign
+buffer[32] -> things -> and
+buffer[33] -> were -> the
 buffer[34]
-buffer[35]#
-buffer[36]###
+buffer[35] -> cook
+buffer[36] -> over -> the -> turned
 buffer[37]
-buffer[38]#
-buffer[39]#
-buffer[40]#
-buffer[41]##
-buffer[42]###
-buffer[43]##
-buffer[44]#
-buffer[45]#
+buffer[38] -> doubt
+buffer[39] -> boy
+buffer[40] -> little
+buffer[41] -> war -> my
+buffer[42] -> creep -> me -> to
+buffer[43] -> all -> or
+buffer[44] -> their
+buffer[45] -> glimpse
 buffer[46]
-buffer[47]###
-buffer[48]#########
-buffer[49]#
-buffer[50]####
-buffer[51]####
-buffer[52]##
-buffer[53]####
-buffer[54]##
-buffer[55]##
+buffer[47] -> once -> to -> what
+buffer[48] -> natural -> being -> of -> rode -> did -> the -> spoke -> me
+buffer[49] -> you
+buffer[50] -> about -> riddle -> surface -> criminals
+buffer[51] -> even -> the -> he -> wizard
+buffer[52] -> let -> his
+buffer[53] -> noises -> knew -> within -> know
+buffer[54] -> merely -> put
+buffer[55] -> the -> sink
 buffer[56]
-buffer[57]##
-buffer[58]###
-buffer[59]##
-buffer[60]##
-buffer[61]#
-buffer[62]##
-buffer[63]##
-buffer[64]####
-buffer[65]#
-buffer[66]###
-buffer[67]###
-buffer[68]##
-buffer[69]#####
-buffer[70]###
-buffer[71]##
-buffer[72]#
+buffer[57] -> as -> pitched
+buffer[58] -> s -> be -> weeds
+buffer[59] -> into -> place
+buffer[60] -> keep -> lights
+buffer[61] -> you
+buffer[62] -> frank -> cloud
+buffer[63] -> from -> because
+buffer[64] -> topics -> wanted -> it -> able
+buffer[65] -> quiet
+buffer[66] -> missing -> the -> bar
+buffer[67] -> the -> at -> world
+buffer[68] -> had -> side
+buffer[69] -> could -> that -> hairs -> the -> stick
+buffer[70] -> the -> at -> closely
+buffer[71] -> neither -> footsteps
+buffer[72] -> the
 buffer[73]
-buffer[74]###
-buffer[75]##
+buffer[74] -> to -> the -> fearful
+buffer[75] -> far -> had
 buffer[76]
-buffer[77]###
-buffer[78]##
-buffer[79]####
-buffer[80]#
-buffer[81]##
-buffer[82]#
-buffer[83]#####
-buffer[84]#
-buffer[85]#
-buffer[86]######
-buffer[87]##
-buffer[88]##
-buffer[89]##
-buffer[90]##
-buffer[91]###
-buffer[92]#
-buffer[93]##
-buffer[94]###
-buffer[95]#####
-buffer[96]#
-buffer[97]##
-buffer[98]#
-buffer[99]#
-buffer[100]#
-buffer[101]####
-buffer[102]##
-buffer[103]#####
-buffer[104]###
-buffer[105]###
+buffer[77] -> nor -> has -> notice
+buffer[78] -> where -> he
+buffer[79] -> though -> we -> speak -> note
+buffer[80] -> back
+buffer[81] -> it -> and
+buffer[82] -> hardly
+buffer[83] -> but -> creep -> glimmering -> taken -> on
+buffer[84] -> voice
+buffer[85] -> man
+buffer[86] -> horrible -> was -> light -> milk -> listening -> rising
+buffer[87] -> the -> wait
+buffer[88] -> easily -> pause
+buffer[89] -> objects -> each
+buffer[90] -> she -> knew
+buffer[91] -> a -> back -> to
+buffer[92] -> doubted
+buffer[93] -> to -> is
+buffer[94] -> that -> were -> the
+buffer[95] -> room -> smooth -> clink -> and -> the
+buffer[96] -> against
+buffer[97] -> had -> go
+buffer[98] -> can
+buffer[99] -> reached
+buffer[100] -> voices
+buffer[101] -> of -> and -> s -> on
+buffer[102] -> a -> his
+buffer[103] -> concluded -> upon -> said -> into -> cannot
+buffer[104] -> seethed -> of -> explore
+buffer[105] -> none -> fire -> night
 buffer[106]
-buffer[107]##
-buffer[108]#
-buffer[109]####
-buffer[110]###
-buffer[111]#
-buffer[112]####
-buffer[113]#
-buffer[114]##
-buffer[115]##
-buffer[116]#
-buffer[117]##
-buffer[118]###
+buffer[107] -> the
+buffer[108] -> a
+buffer[109] -> day -> wealthy -> the -> gnarled
+buffer[110] -> the -> ask -> ivy
+buffer[111] -> as
+buffer[112] -> the -> their -> frank -> fourth
+buffer[113] -> limping
+buffer[114] -> any -> as
+buffer[115] -> in -> decay
+buffer[116] -> police
+buffer[117] -> woman -> was
+buffer[118] -> frank -> owners -> here
 buffer[119]
-buffer[120]####
-buffer[121]####
-buffer[122]###
-buffer[123]####
-buffer[124]##
-buffer[125]##
+buffer[120] -> called -> might -> upstairs -> long
+buffer[121] -> house -> hurried -> slice -> to
+buffer[122] -> the -> riddles -> and
+buffer[123] -> were -> that -> i -> checking
+buffer[124] -> the -> to
+buffer[125] -> hard -> the
 buffer[126]
-buffer[127]###
+buffer[127] -> eagerly -> sure -> was
 buffer[128]
-buffer[129]##
-buffer[130]##
-buffer[131]###
+buffer[129] -> now -> i
+buffer[130] -> far -> had
+buffer[131] -> any -> still -> over
 buffer[132]
-buffer[133]#
-buffer[134]#
-buffer[135]##
-buffer[136]##
-buffer[137]#
-buffer[138]##
-buffer[139]##
-buffer[140]####
-buffer[141]####
-buffer[142]##
-buffer[143]####
-buffer[144]#
-buffer[145]##
-buffer[146]#
-buffer[147]##
-buffer[148]##
-buffer[149]#
-buffer[150]###
-buffer[151]#
-buffer[152]##
-buffer[153]#
-buffer[154]####
-buffer[155]#######
-buffer[156]#
-buffer[157]#
-buffer[158]#
-buffer[159]#
-buffer[160]##
-buffer[161]###
-buffer[162]#
-buffer[163]#
-buffer[164]#######
-buffer[165]##
-buffer[166]###
-buffer[167]########
-buffer[168]##
-buffer[169]##
-buffer[170]###
-buffer[171]###
-buffer[172]######
-buffer[173]###
-buffer[174]###
-buffer[175]#####
-buffer[176]####
-buffer[177]##
-buffer[178]##
-buffer[179]##
-buffer[180]##
-buffer[181]###
-buffer[182]###
-buffer[183]##
-buffer[184]####
-buffer[185]#
-buffer[186]#####
-buffer[187]##
-buffer[188]######
-buffer[189]##
-buffer[190]####
-buffer[191]####
-buffer[192]##
-buffer[193]####
-buffer[194]##
+buffer[133] -> pouring
+buffer[134] -> of
+buffer[135] -> of -> second
+buffer[136] -> the -> was
+buffer[137] -> next
+buffer[138] -> watch -> his
+buffer[139] -> clear -> say
+buffer[140] -> never -> churchyard -> killed -> icy
+buffer[141] -> report -> and -> the -> started
+buffer[142] -> cold -> he
+buffer[143] -> of -> rude -> hundred -> dark
+buffer[144] -> bryce
+buffer[145] -> by -> earwax
+buffer[146] -> your
+buffer[147] -> pay -> himself
+buffer[148] -> like -> yelling
+buffer[149] -> then
+buffer[150] -> was -> people -> weather
+buffer[151] -> frank
+buffer[152] -> that -> ear
+buffer[153] -> windows
+buffer[154] -> s -> their -> him -> could
+buffer[155] -> fifty -> daybreak -> in -> of -> let -> said -> dug
+buffer[156] -> said
+buffer[157] -> of
+buffer[158] -> lest
+buffer[159] -> do
+buffer[160] -> further -> would
+buffer[161] -> about -> the -> lord
+buffer[162] -> in
+buffer[163] -> seemed
+buffer[164] -> fervently -> bodies -> he -> the -> rotated -> identities
+buffer[165] -> gossip -> and
+buffer[166] -> people -> on -> over
+buffer[167] -> buy -> hangleton -> hanged -> any -> to -> refilling -> standing -> key
+buffer[168] -> elderly -> report
+buffer[169] -> people -> so
+buffer[170] -> and -> drinks -> amused
+buffer[171] -> leave -> to -> the
+buffer[172] -> the -> contend -> him -> into -> owing
+buffer[173] -> the -> was -> greatly
+buffer[174] -> summoned -> were -> his
+buffer[175] -> stiff -> remember -> obsession -> the -> door
+buffer[176] -> of -> the -> hook -> very
+buffer[177] -> that -> person
+buffer[178] -> everything -> fire
+buffer[179] -> family -> nagini
+buffer[180] -> if -> the
+buffer[181] -> cottage -> journey -> fool
+buffer[182] -> told -> narrow -> a
+buffer[183] -> a -> gardener
+buffer[184] -> key -> its -> a -> before
+buffer[185] -> more
+buffer[186] -> pub -> to -> boys -> wormtail -> bald
+buffer[187] -> pretending -> it
+buffer[188] -> to -> him -> he -> surprised -> house -> so
+buffer[189] -> examined -> act
+buffer[190] -> happened -> quite -> attempts -> he
+buffer[191] -> hangletons -> dull -> we -> is
+buffer[192] -> ever -> station
+buffer[193] -> windows -> frustrated -> large -> bottle
+buffer[194] -> then -> parents
 buffer[195]
 buffer[196]
-buffer[197]#
-buffer[198]####
-buffer[199]##
-buffer[200]###
-buffer[201]##
-buffer[202]#
-buffer[203]##
-buffer[204]####
-buffer[205]####
-buffer[206]####
-buffer[207]#
-buffer[208]#
-buffer[209]#
+buffer[197] -> riddles
+buffer[198] -> bicycles -> room -> man -> this
+buffer[199] -> far -> toward
+buffer[200] -> buried -> the -> a
+buffer[201] -> house -> expressions
+buffer[202] -> in
+buffer[203] -> since -> the
+buffer[204] -> bodies -> the -> starting -> had
+buffer[205] -> looking -> riddle -> had -> grate
+buffer[206] -> been -> riddles -> the -> when
+buffer[207] -> made
+buffer[208] -> very
+buffer[209] -> concerned
 buffer[210]
-buffer[211]##
-buffer[212]###
-buffer[213]#
-buffer[214]##
-buffer[215]#
-buffer[216]###
-buffer[217]#
-buffer[218]#
-buffer[219]###
-buffer[220]##
-buffer[221]###
-buffer[222]#
-buffer[223]##
-buffer[224]###
-buffer[225]####
-buffer[226]####
-buffer[227]#
-buffer[228]#####
-buffer[229]#####
+buffer[211] -> as -> a
+buffer[212] -> of -> with -> the
+buffer[213] -> and
+buffer[214] -> for -> nodding
+buffer[215] -> a
+buffer[216] -> was -> gap -> a
+buffer[217] -> disguise
+buffer[218] -> the
+buffer[219] -> himself -> his -> words
+buffer[220] -> than -> ask
+buffer[221] -> a -> muffled -> she
+buffer[222] -> the
+buffer[223] -> were -> vigorously
+buffer[224] -> a -> stopped -> it
+buffer[225] -> door -> of -> wormtail
+buffer[226] -> on -> at -> it -> and
+buffer[227] -> casting
+buffer[228] -> to -> murderer -> which -> muggles
+buffer[229] -> following -> dingy -> or -> blessing -> buildup
 buffer[230]
-buffer[231]####
-buffer[232]##
-buffer[233]#
-buffer[234]#####
-buffer[235]##
-buffer[236]#####
-buffer[237]#
-buffer[238]#
-buffer[239]##
-buffer[240]#####
-buffer[241]#####
-buffer[242]##
-buffer[243]##
-buffer[244]#
-buffer[245]##
-buffer[246]##
+buffer[231] -> the -> sounded
+buffer[232] -> gone -> heavy
+buffer[233] -> edged
+buffer[234] -> so -> unmistakable -> next -> stick -> bad
+buffer[235] -> in -> his
+buffer[236] -> years -> and -> gardening -> floor -> every
+buffer[237] -> dot
+buffer[238] -> did
+buffer[239] -> odd -> they
+buffer[240] -> apparently -> fall -> from -> frank -> before
+buffer[241] -> feeling -> to -> leg -> either -> said
+buffer[242] -> terror -> man
+buffer[243] -> was -> the
+buffer[244] -> knee
+buffer[245] -> the -> inserted
+buffer[246] -> once -> of
 buffer[247]
 buffer[248]
-buffer[249]#
-buffer[250]###
-buffer[251]#
-buffer[252]##
-buffer[253]###
-buffer[254]###
-buffer[255]#
-buffer[256]##
-buffer[257]#
-buffer[258]#
-buffer[259]#
-buffer[260]###
-buffer[261]#
-buffer[262]##
+buffer[249] -> for
+buffer[250] -> a -> the -> patch
+buffer[251] -> to
+buffer[252] -> since -> cook
+buffer[253] -> every -> life -> report
+buffer[254] -> enough -> for -> words
+buffer[255] -> things
+buffer[256] -> and -> me
+buffer[257] -> and
+buffer[258] -> crowds
+buffer[259] -> to
+buffer[260] -> a -> at -> else
+buffer[261] -> fully
+buffer[262] -> forced -> i
 buffer[263]
-buffer[264]#####
-buffer[265]##
-buffer[266]##
-buffer[267]###
-buffer[268]##
-buffer[269]####
-buffer[270]#
-buffer[271]###
-buffer[272]###
-buffer[273]##
+buffer[264] -> dislike -> something -> not -> into -> be
+buffer[265] -> that
+buffer[266] -> ah -> house
+buffer[267] -> still -> he -> wormtail
+buffer[268] -> to -> got
+buffer[269] -> the -> team -> that -> seventh
+buffer[270] -> myself
+buffer[271] -> loud -> there -> was
+buffer[272] -> though -> wealthy -> a
+buffer[273] -> the -> opened
 buffer[274]
-buffer[275]####
-buffer[276]#
+buffer[275] -> breath -> funny -> front -> the
+buffer[276] -> had
 buffer[277]
 buffer[278]
-buffer[279]#
-buffer[280]######
-buffer[281]#
-buffer[282]###
+buffer[279] -> night
+buffer[280] -> there -> from -> that -> truth -> stiffness -> then
+buffer[281] -> telephone
+buffer[282] -> he -> i -> to
 buffer[283]
-buffer[284]##
-buffer[285]#####
-buffer[286]###
-buffer[287]##
-buffer[288]##
-buffer[289]#
-buffer[290]#####
-buffer[291]###
-buffer[292]###
-buffer[293]###
-buffer[294]###
-buffer[295]######
-buffer[296]##
-buffer[297]##
-buffer[298]#
-buffer[299]###
-buffer[300]##
-buffer[301]##
-buffer[302]#
-buffer[303]##
-buffer[304]#
-buffer[305]##
-buffer[306]#
-buffer[307]###
-buffer[308]#####
-buffer[309]#####
-buffer[310]#####
-buffer[311]####
-buffer[312]###
-buffer[313]####
-buffer[314]#####
-buffer[315]##
-buffer[316]##
-buffer[317]###
-buffer[318]##
-buffer[319]####
-buffer[320]#####
+buffer[284] -> firesides -> the
+buffer[285] -> now -> the -> towards -> wormtail -> to
+buffer[286] -> the -> tone -> water
+buffer[287] -> to -> a
+buffer[288] -> man -> proof
+buffer[289] -> had
+buffer[290] -> no -> and -> was -> ajar -> of
+buffer[291] -> s -> frank -> it
+buffer[292] -> riddles -> are -> his
+buffer[293] -> its -> frank -> to
+buffer[294] -> a -> if -> wonder
+buffer[295] -> the -> about -> with -> a -> true -> be
+buffer[296] -> the -> suspicion
+buffer[297] -> agreed -> knows
+buffer[298] -> shocked
+buffer[299] -> listening -> to -> harry
+buffer[300] -> old -> and
+buffer[301] -> move -> wormtail
+buffer[302] -> first
+buffer[303] -> i -> propped
+buffer[304] -> some
+buffer[305] -> town -> only
+buffer[306] -> village
+buffer[307] -> stairs -> of -> a
+buffer[308] -> lived -> places -> the -> great -> him
+buffer[309] -> with -> dust -> i -> the -> plan
+buffer[310] -> had -> he -> cup -> potter -> out
+buffer[311] -> windows -> lived -> working -> who
+buffer[312] -> family -> looked -> was
+buffer[313] -> that -> think -> much -> and
+buffer[314] -> the -> garden -> a -> world -> of
+buffer[315] -> were -> the
+buffer[316] -> still -> likes
+buffer[317] -> the -> at -> i
+buffer[318] -> village -> is
+buffer[319] -> the -> him -> an -> and
+buffer[320] -> house -> had -> riddles -> the -> police
 buffer[321]
-buffer[322]##
-buffer[323]######
-buffer[324]##
-buffer[325]##
-buffer[326]###
+buffer[322] -> once -> may
+buffer[323] -> the -> worse -> voice -> and -> if -> another
+buffer[324] -> the -> years
+buffer[325] -> started -> they
+buffer[326] -> of -> look -> tell
 buffer[327]
-buffer[328]##
-buffer[329]##
-buffer[330]#
+buffer[328] -> been -> breathed
+buffer[329] -> not -> finger
+buffer[330] -> the
 buffer[331]
-buffer[332]#
-buffer[333]#
+buffer[332] -> into
+buffer[333] -> had
 buffer[334]
-buffer[335]########
-buffer[336]#####
-buffer[337]#
-buffer[338]##
+buffer[335] -> at -> police -> going -> before -> is -> frank -> wormtail
+buffer[336] -> had -> dead -> either -> ever -> a
+buffer[337] -> kept
+buffer[338] -> did -> seventy
 buffer[339]
-buffer[340]#
-buffer[341]###
-buffer[342]#
-buffer[343]##
-buffer[344]###
-buffer[345]###
+buffer[340] -> saw
+buffer[341] -> wasted -> lawns -> of
+buffer[342] -> the
+buffer[343] -> ill -> tumbling
+buffer[344] -> their -> be -> he
+buffer[345] -> it -> its -> in
 buffer[346]
-buffer[347]#
-buffer[348]###
-buffer[349]###
-buffer[350]#
+buffer[347] -> at
+buffer[348] -> remember -> the -> in
+buffer[349] -> liked -> the -> again
+buffer[350] -> nobody
 buffer[351]
-buffer[352]##
-buffer[353]##
-buffer[354]####
-buffer[355]###
-buffer[356]####
-buffer[357]###
-buffer[358]#
-buffer[359]#####
-buffer[360]#####
-buffer[361]####
-buffer[362]###
-buffer[363]#
-buffer[364]##
-buffer[365]#
-buffer[366]#
+buffer[352] -> roused -> concern
+buffer[353] -> the -> soon
+buffer[354] -> just -> war -> the -> not
+buffer[355] -> midst -> frank -> of
+buffer[356] -> appeared -> around -> could -> relieved
+buffer[357] -> damp -> not -> be
+buffer[358] -> people
+buffer[359] -> was -> tom -> deaf -> on -> down
+buffer[360] -> alone -> beds -> he -> voice -> small
+buffer[361] -> boarded -> ever -> old -> so
+buffer[362] -> worse -> they -> you
+buffer[363] -> heard
+buffer[364] -> quite -> how
+buffer[365] -> for
+buffer[366] -> him
 buffer[367]
 buffer[368]
-buffer[369]###
-buffer[370]####
-buffer[371]###
-buffer[372]#####
-buffer[373]##
-buffer[374]#####
-buffer[375]##
-buffer[376]##
-buffer[377]###
-buffer[378]####
-buffer[379]#####
-buffer[380]##
-buffer[381]###
-buffer[382]#
-buffer[383]#
-buffer[384]###
-buffer[385]#####
-buffer[386]######
-buffer[387]#
-buffer[388]####
-buffer[389]#
-buffer[390]#####
+buffer[369] -> their -> looks -> while
+buffer[370] -> riddle -> however -> could -> to
+buffer[371] -> son -> anything -> lived
+buffer[372] -> the -> barked -> of -> house -> on
+buffer[373] -> he -> cold
+buffer[374] -> the -> had -> bore -> long -> could
+buffer[375] -> drop -> all
+buffer[376] -> cold -> duty
+buffer[377] -> the -> overhead
+buffer[378] -> told -> in -> and -> be
+buffer[379] -> a -> silent -> later -> spoke -> use
+buffer[380] -> last -> wizards
+buffer[381] -> identity -> the -> and
+buffer[382] -> the
+buffer[383] -> the
+buffer[384] -> spare -> and -> now
+buffer[385] -> sure -> find -> lying -> and -> in
+buffer[386] -> there -> leaving -> to -> at -> reached -> and
+buffer[387] -> as
+buffer[388] -> been -> the -> on -> once
+buffer[389] -> offered
+buffer[390] -> said -> place -> for -> substitute -> task
 buffer[391]
-buffer[392]###
-buffer[393]##
+buffer[392] -> cuppa -> the
+buffer[393] -> of -> a
 buffer[394]
-buffer[395]##
-buffer[396]##
-buffer[397]##
-buffer[398]##
-buffer[399]#
-buffer[400]####
-buffer[401]###
-buffer[402]####
-buffer[403]##
+buffer[395] -> to -> of
+buffer[396] -> august -> woke
+buffer[397] -> inhabitants -> frank
+buffer[398] -> at -> the
+buffer[399] -> hot
+buffer[400] -> had -> all -> the
+buffer[401] -> the -> to -> wormtail
+buffer[402] -> tale -> of -> from -> a
+buffer[403] -> always -> in
 buffer[404]
 buffer[405]
-buffer[406]##
-buffer[407]##
-buffer[408]##
-buffer[409]###
-buffer[410]#
+buffer[406] -> lighter -> as
+buffer[407] -> the -> for
+buffer[408] -> there -> set
+buffer[409] -> for -> the -> i
+buffer[410] -> had
 buffer[411]
-buffer[412]####
-buffer[413]####
+buffer[412] -> details -> fact -> one -> moderately
+buffer[413] -> arrived -> there -> in -> up
 buffer[414]
-buffer[415]##
-buffer[416]###
-buffer[417]###
-buffer[418]###
-buffer[419]##
-buffer[420]####
-buffer[421]##
-buffer[422]###
-buffer[423]##
-buffer[424]#
-buffer[425]###
-buffer[426]##
-buffer[427]####
-buffer[428]###
-buffer[429]##
-buffer[430]###
-buffer[431]##
-buffer[432]####
-buffer[433]##
+buffer[415] -> thought -> me
+buffer[416] -> right -> his -> my
+buffer[417] -> fine -> to -> retire
+buffer[418] -> if -> scraping -> the
+buffer[419] -> disguised -> said
+buffer[420] -> wide -> what -> feeding -> word
+buffer[421] -> the -> from
+buffer[422] -> had -> closer -> laying
+buffer[423] -> remembered -> because
+buffer[424] -> hangleton
+buffer[425] -> of -> door -> still
+buffer[426] -> step -> this
+buffer[427] -> mrs -> riddles -> the
+buffer[428] -> house -> him -> the
+buffer[429] -> on -> lord
+buffer[430] -> war -> we -> with
+buffer[431] -> the -> his
+buffer[432] -> the -> up -> was -> closer
+buffer[433] -> kettle -> followed
 buffer[434]
-buffer[435]###
-buffer[436]##
-buffer[437]###
-buffer[438]##
-buffer[439]###
-buffer[440]####
-buffer[441]###
-buffer[442]###
-buffer[443]#
-buffer[444]##
-buffer[445]##
-buffer[446]##
-buffer[447]#
-buffer[448]##
-buffer[449]###
-buffer[450]####
-buffer[451]####
-buffer[452]###
+buffer[435] -> hear -> old -> voice
+buffer[436] -> said -> of
+buffer[437] -> to -> lay -> harry
+buffer[438] -> frank -> more
+buffer[439] -> have -> the -> said
+buffer[440] -> down -> surprise -> use -> black
+buffer[441] -> and -> grounds -> had
+buffer[442] -> of -> partly -> deeply
+buffer[443] -> checking
+buffer[444] -> the -> so
+buffer[445] -> had -> garden
+buffer[446] -> to -> shot
+buffer[447] -> to
+buffer[448] -> but -> head
+buffer[449] -> exchanged -> lock -> the
+buffer[450] -> sudden -> you -> person -> the
+buffer[451] -> since -> lived -> the -> voice
+buffer[452] -> dinner -> house -> no
 buffer[453]
-buffer[454]###
-buffer[455]#
-buffer[456]###
+buffer[454] -> and -> the -> or
+buffer[455] -> of
+buffer[456] -> village -> at -> wizard
 buffer[457]
-buffer[458]####
-buffer[459]##
-buffer[460]##
-buffer[461]##
-buffer[462]#####
-buffer[463]#
-buffer[464]###
-buffer[465]#
-buffer[466]####
-buffer[467]#####
-buffer[468]#
-buffer[469]##
-buffer[470]##
-buffer[471]##
-buffer[472]#
+buffer[458] -> note -> amid -> back -> think
+buffer[459] -> house -> forgive
+buffer[460] -> s -> on
+buffer[461] -> lord -> cup
+buffer[462] -> their -> could -> dare -> of -> be
+buffer[463] -> continued
+buffer[464] -> more -> for -> into
+buffer[465] -> that
+buffer[466] -> hill -> all -> they -> frank
+buffer[467] -> version -> seen -> hall -> stopped -> being
+buffer[468] -> his
+buffer[469] -> turned -> caught
+buffer[470] -> perhaps -> softly
+buffer[471] -> ago -> magic
+buffer[472] -> voice
 buffer[473]
-buffer[474]#
-buffer[475]#####
-buffer[476]#
-buffer[477]#
-buffer[478]#
+buffer[474] -> of
+buffer[475] -> dead -> man -> inhabitants -> cavernous -> he
+buffer[476] -> climb
+buffer[477] -> well
+buffer[478] -> mullioned
 buffer[479]
-buffer[480]###
-buffer[481]###
-buffer[482]#
-buffer[483]###
-buffer[484]###
-buffer[485]####
-buffer[486]###
+buffer[480] -> frank -> while -> the
+buffer[481] -> been -> police -> bad
+buffer[482] -> screaming
+buffer[483] -> into -> the -> nursing
+buffer[484] -> and -> hold -> voice
+buffer[485] -> grunted -> him -> by -> closer
+buffer[486] -> three -> if -> like
 buffer[487]
-buffer[488]###
-buffer[489]###
-buffer[490]##
-buffer[491]#####
-buffer[492]#
-buffer[493]##
-buffer[494]##
-buffer[495]###
-buffer[496]#
-buffer[497]##
+buffer[488] -> dot -> stiffer -> intruders
+buffer[489] -> years -> i -> his
+buffer[490] -> sleeping -> a
+buffer[491] -> when -> he -> wall -> many -> ministry
+buffer[492] -> all
+buffer[493] -> a -> dark
+buffer[494] -> turned -> into
+buffer[495] -> to -> into -> a
+buffer[496] -> many
+buffer[497] -> roaring -> is
 buffer[498]
-buffer[499]#####
-buffer[500]##
+buffer[499] -> roof -> the -> come -> try -> and
+buffer[500] -> stood -> little
 buffer[501]
-buffer[502]###
-buffer[503]####
-buffer[504]###
-buffer[505]#
-buffer[506]####
-buffer[507]#
-buffer[508]##
-buffer[509]###
-buffer[510]####
-buffer[511]#
-buffer[512]#
-buffer[513]#
+buffer[502] -> said -> something -> the
+buffer[503] -> they -> up -> his -> as
+buffer[504] -> the -> in -> ministry
+buffer[505] -> of
+buffer[506] -> creepy -> the -> t -> s
+buffer[507] -> to
+buffer[508] -> just -> trying
+buffer[509] -> teenage -> would -> owing
+buffer[510] -> idea -> it -> the -> merely
+buffer[511] -> proceed
+buffer[512] -> long
+buffer[513] -> every
 buffer[514]
-buffer[515]##
-buffer[516]#
-buffer[517]###
+buffer[515] -> that -> the
+buffer[516] -> as
+buffer[517] -> trade -> i -> it
 buffer[518]
-buffer[519]###
-buffer[520]##
-buffer[521]####
-buffer[522]###
-buffer[523]######
-buffer[524]##
-buffer[525]####
-buffer[526]##
-buffer[527]##
-buffer[528]####
-buffer[529]##
-buffer[530]###
+buffer[519] -> the -> is -> on
+buffer[520] -> being -> moving
+buffer[521] -> back -> stood -> there -> abandoning
+buffer[522] -> of -> protracted -> use
+buffer[523] -> all -> very -> pottering -> put -> distinctly -> could
+buffer[524] -> older -> and
+buffer[525] -> each -> s -> front -> stone
+buffer[526] -> been -> voice
+buffer[527] -> stayed -> frank
+buffer[528] -> that -> they -> thing -> of
+buffer[529] -> stick -> dragged
+buffer[530] -> riddles -> was -> the
 buffer[531]
 buffer[532]
-buffer[533]##
-buffer[534]##
-buffer[535]##
-buffer[536]######
-buffer[537]#
-buffer[538]###
-buffer[539]###
-buffer[540]#
+buffer[533] -> potter -> he
+buffer[534] -> were -> her
+buffer[535] -> the -> noiselessly
+buffer[536] -> nobody -> suppress -> at -> bottle -> as -> only
+buffer[537] -> thick
+buffer[538] -> on -> frank -> believed
+buffer[539] -> times -> wouldn -> door
+buffer[540] -> said
 buffer[541]
-buffer[542]###
-buffer[543]###
-buffer[544]##
-buffer[545]##
-buffer[546]#
-buffer[547]##
-buffer[548]#####
-buffer[549]##
+buffer[542] -> with -> for -> intently
+buffer[543] -> that -> at -> will
+buffer[544] -> the -> saw
+buffer[545] -> riddles -> he
+buffer[546] -> but
+buffer[547] -> almost -> good
+buffer[548] -> paining -> kettle -> on -> the
+buffer[549] -> of -> can
 buffer[550]
-buffer[551]##
-buffer[552]####
+buffer[551] -> with -> back
+buffer[552] -> old -> maid -> protected -> you
 buffer[553]
-buffer[554]####
-buffer[555]###
-buffer[556]###
-buffer[557]##
-buffer[558]###
+buffer[554] -> once -> sound -> across -> said
+buffer[555] -> a -> grown -> all
+buffer[556] -> villagers -> did -> riddle
+buffer[557] -> and -> see
+buffer[558] -> walking -> there -> made
 buffer[559]
-buffer[560]#####
-buffer[561]###
-buffer[562]##
-buffer[563]##
-buffer[564]###
-buffer[565]####
-buffer[566]##
-buffer[567]####
+buffer[560] -> no -> pale -> for -> saw -> until
+buffer[561] -> big -> frank -> don
+buffer[562] -> door -> picked
+buffer[563] -> a -> although
+buffer[564] -> and -> were -> as
+buffer[565] -> back -> to -> through -> the
+buffer[566] -> the -> listened
+buffer[567] -> look -> frank -> the -> quickly
 buffer[568]
 buffer[569]
-buffer[570]##
-buffer[571]####
-buffer[572]#
-buffer[573]######
-buffer[574]##
-buffer[575]###
-buffer[576]####
-buffer[577]###
-buffer[578]##
+buffer[570] -> grandparents -> belonged
+buffer[571] -> else -> throwing -> any -> from
+buffer[572] -> once
+buffer[573] -> feel -> back -> was -> a -> been -> voice
+buffer[574] -> he -> a
+buffer[575] -> as -> riddles -> out
+buffer[576] -> of -> the -> which -> foolish
+buffer[577] -> hangleton -> it -> sense
+buffer[578] -> village -> broken
 buffer[579]
-buffer[580]##
-buffer[581]##
-buffer[582]###
-buffer[583]#
-buffer[584]###
-buffer[585]###
-buffer[586]####
-buffer[587]#
-buffer[588]#
-buffer[589]##
-buffer[590]####
-buffer[591]#
-buffer[592]###
-buffer[593]#
-buffer[594]#####
-buffer[595]####
-buffer[596]##
+buffer[580] -> on -> frank
+buffer[581] -> him -> the
+buffer[582] -> three -> deaths -> that
+buffer[583] -> was
+buffer[584] -> door -> of -> he
+buffer[585] -> to -> wearing -> wearisome
+buffer[586] -> whole -> the -> to -> suitable
+buffer[587] -> and
+buffer[588] -> a
+buffer[589] -> stick -> listened
+buffer[590] -> nobody -> and -> deaths -> around
+buffer[591] -> so
+buffer[592] -> called -> the -> will
+buffer[593] -> innocent
+buffer[594] -> nobody -> the -> for -> out -> am
+buffer[595] -> you -> something -> completely -> code
+buffer[596] -> tax -> of
 buffer[597]
-buffer[598]#
-buffer[599]###
-buffer[600]#
-buffer[601]###
-buffer[602]#####
-buffer[603]###
-buffer[604]#####
-buffer[605]##
-buffer[606]#####
-buffer[607]##
-buffer[608]###
-buffer[609]#####
-buffer[610]#
-buffer[611]####
-buffer[612]###
-buffer[613]#
-buffer[614]####
-buffer[615]##
-buffer[616]#
-buffer[617]##
-buffer[618]##
-buffer[619]###
-buffer[620]###
-buffer[621]####
-buffer[622]##
-buffer[623]###
-buffer[624]####
+buffer[598] -> had
+buffer[599] -> had -> frank -> and
+buffer[600] -> the
+buffer[601] -> lord -> word -> something
+buffer[602] -> a -> riddle -> after -> the -> were
+buffer[603] -> for -> turned -> owned
+buffer[604] -> in -> suffocated -> again -> another
+buffer[605] -> sparse -> over
+buffer[606] -> excited -> he -> off -> world -> wormtail
+buffer[607] -> bryce -> fine
+buffer[608] -> cared -> an -> at
+buffer[609] -> fine -> he -> as -> riddle -> more
+buffer[610] -> be
+buffer[611] -> on -> and -> woman -> decency
+buffer[612] -> many -> they -> sound
+buffer[613] -> hangleton
+buffer[614] -> landlord -> invented -> flower -> could
+buffer[615] -> things -> his
+buffer[616] -> in
+buffer[617] -> house -> and
+buffer[618] -> whole -> longer
+buffer[619] -> pub -> cottage -> cloak
+buffer[620] -> the -> that -> man
+buffer[621] -> still -> house -> limped -> my
+buffer[622] -> the -> said
+buffer[623] -> for -> put -> a
+buffer[624] -> wrong -> poisoned -> black -> is
 buffer[625]
-buffer[626]###
-buffer[627]###
-buffer[628]##
-buffer[629]##
+buffer[626] -> near -> and -> that
+buffer[627] -> the -> a -> volunteer
+buffer[628] -> the -> magic
+buffer[629] -> t -> fetch
 buffer[630]
 buffer[631]
-buffer[632]####
-buffer[633]#####
-buffer[634]###
+buffer[632] -> a -> beyond -> there -> here
+buffer[633] -> to -> mix -> in -> ease -> called
+buffer[634] -> bar -> perhaps -> frank
 buffer[635]
-buffer[636]###
-buffer[637]###
-buffer[638]####
-buffer[639]####
+buffer[636] -> they -> where -> plainly
+buffer[637] -> man -> so -> are
+buffer[638] -> many -> odder -> which -> anything
+buffer[639] -> little -> so -> see -> door
 buffer[640]
-buffer[641]#######
-buffer[642]#
-buffer[643]#
-buffer[644]#
-buffer[645]##
-buffer[646]####
-buffer[647]#
-buffer[648]#
-buffer[649]#
-buffer[650]#####
-buffer[651]##
-buffer[652]##
-buffer[653]##
-buffer[654]###
-buffer[655]#####
-buffer[656]####
-buffer[657]###
-buffer[658]###
-buffer[659]#
-buffer[660]#
-buffer[661]##
-buffer[662]###
-buffer[663]###
-buffer[664]##
-buffer[665]###
-buffer[666]######
-buffer[667]##
-buffer[668]###
-buffer[669]#####
-buffer[670]#
-buffer[671]##
-buffer[672]###
-buffer[673]##
-buffer[674]##
-buffer[675]####
-buffer[676]#
-buffer[677]##
-buffer[678]#
-buffer[679]#
-buffer[680]###
-buffer[681]###
-buffer[682]###
-buffer[683]######
-buffer[684]#######
-buffer[685]#
-buffer[686]#
-buffer[687]###
-buffer[688]####
-buffer[689]##
-buffer[690]#
-buffer[691]##
-buffer[692]###
-buffer[693]###
-buffer[694]####
-buffer[695]###
-buffer[696]##
+buffer[641] -> it -> riddles -> right -> a -> for -> frank -> the
+buffer[642] -> nerve
+buffer[643] -> was
+buffer[644] -> sight
+buffer[645] -> over -> devotion
+buffer[646] -> story -> and -> house -> need
+buffer[647] -> sorts
+buffer[648] -> t
+buffer[649] -> suggestion
+buffer[650] -> on -> night -> amounted -> he -> i
+buffer[651] -> weeds -> went
+buffer[652] -> seen -> hard
+buffer[653] -> mr -> put
+buffer[654] -> most -> get -> it
+buffer[655] -> the -> door -> a -> ear -> leave
+buffer[656] -> grandest -> i -> old -> for
+buffer[657] -> tired -> heard -> voice
+buffer[658] -> the -> something -> back
+buffer[659] -> room
+buffer[660] -> dead
+buffer[661] -> entered -> there
+buffer[662] -> him -> wizards -> at
+buffer[663] -> up -> about -> is
+buffer[664] -> as -> it
+buffer[665] -> never -> he -> high
+buffer[666] -> morning -> and -> remained -> flickering -> in -> door
+buffer[667] -> these -> and
+buffer[668] -> again -> quality -> of
+buffer[669] -> was -> a -> police -> changed -> neither
+buffer[670] -> m
+buffer[671] -> three -> me
+buffer[672] -> no -> frank -> obsessed
+buffer[673] -> twice -> the
+buffer[674] -> second -> thoroughly
+buffer[675] -> all -> say -> frank -> a
+buffer[676] -> ever
+buffer[677] -> maid -> the
+buffer[678] -> century
+buffer[679] -> was
+buffer[680] -> part -> pricked -> well
+buffer[681] -> little -> any -> i
+buffer[682] -> hangleton -> the -> across
+buffer[683] -> overlooking -> causes -> curiosity -> of -> the -> cold
+buffer[684] -> hill -> of -> reason -> had -> because -> it -> quidditch
+buffer[685] -> another
+buffer[686] -> frightened
+buffer[687] -> never -> the -> unusual
+buffer[688] -> their -> to -> frank -> has
+buffer[689] -> the -> rich
+buffer[690] -> the
+buffer[691] -> was -> world
+buffer[692] -> a -> apart -> about
+buffer[693] -> always -> on -> was
+buffer[694] -> floor -> was -> without -> is
+buffer[695] -> mistrusted -> hard -> comfortable
+buffer[696] -> the -> we
 buffer[697]
-buffer[698]###
-buffer[699]###
-buffer[700]####
-buffer[701]###
-buffer[702]###
-buffer[703]##
-buffer[704]####
-buffer[705]#
-buffer[706]##
-buffer[707]#####
-buffer[708]#####
+buffer[698] -> to -> upper -> out
+buffer[699] -> unpopular -> fire -> finger
+buffer[700] -> their -> boys -> these -> the
+buffer[701] -> the -> bad -> a
+buffer[702] -> determined -> could -> nothing
+buffer[703] -> from -> this
+buffer[704] -> forced -> doctors -> was -> are
+buffer[705] -> in
+buffer[706] -> night -> little
+buffer[707] -> and -> side -> stabbed -> determined -> pause
+buffer[708] -> of -> owner -> landing -> inclined -> would
 buffer[709]
-buffer[710]#
-buffer[711]#
-buffer[712]###
-buffer[713]###
-buffer[714]##
-buffer[715]######
-buffer[716]###
-buffer[717]###
-buffer[718]###
-buffer[719]#
-buffer[720]##
-buffer[721]#
-buffer[722]#
-buffer[723]##
-buffer[724]##
-buffer[725]#
-buffer[726]##
-buffer[727]##
-buffer[728]####
-buffer[729]###
-buffer[730]##
-buffer[731]##
-buffer[732]#
-buffer[733]#####
-buffer[734]###
+buffer[710] -> or
+buffer[711] -> the
+buffer[712] -> that -> almost -> in
+buffer[713] -> as -> dressed -> of
+buffer[714] -> was -> allowed
+buffer[715] -> to -> had -> health -> there -> questioning -> slight
+buffer[716] -> he -> and -> see
+buffer[717] -> ivy -> and -> pause
+buffer[718] -> were -> of -> for
+buffer[719] -> he
+buffer[720] -> for -> riddle
+buffer[721] -> kid
+buffer[722] -> had
+buffer[723] -> frank -> whoever
+buffer[724] -> face -> man
+buffer[725] -> unchecked
+buffer[726] -> them -> at
+buffer[727] -> unoccupied -> scarce
+buffer[728] -> habit -> double -> not -> effectively
+buffer[729] -> dramatically -> several -> out
+buffer[730] -> looking -> through
+buffer[731] -> light -> i
+buffer[732] -> even
+buffer[733] -> village -> sure -> neighboring -> his -> furrowed
+buffer[734] -> nobody -> read -> go
 buffer[735]
-buffer[736]##
-buffer[737]###
-buffer[738]#
-buffer[739]#######
-buffer[740]#
-buffer[741]#
-buffer[742]##
-buffer[743]###
-buffer[744]#
-buffer[745]###
-buffer[746]#####
-buffer[747]#####
-buffer[748]###
-buffer[749]###
-buffer[750]###
-buffer[751]###
-buffer[752]###
-buffer[753]##
-buffer[754]####
-buffer[755]#
-buffer[756]####
-buffer[757]#
-buffer[758]##
-buffer[759]##
-buffer[760]#
-buffer[761]#
+buffer[736] -> them -> you
+buffer[737] -> temper -> might -> my
+buffer[738] -> second
+buffer[739] -> been -> murders -> gardener -> me -> hidden -> timid -> wind
+buffer[740] -> i
+buffer[741] -> his
+buffer[742] -> in -> meant
+buffer[743] -> hall -> of -> boy
+buffer[744] -> graves
+buffer[745] -> do -> what -> gold
+buffer[746] -> building -> m -> riddles -> took -> do
+buffer[747] -> from -> bodies -> here -> back -> and
+buffer[748] -> and -> was -> the
+buffer[749] -> ve -> these -> very
+buffer[750] -> frank -> right -> spies
+buffer[751] -> of -> still -> as
+buffer[752] -> dark -> continued -> frank
+buffer[753] -> very -> why
+buffer[754] -> to -> house -> downstairs -> a
+buffer[755] -> chair
+buffer[756] -> when -> in -> nor -> quidditch
+buffer[757] -> drawing
+buffer[758] -> knowing -> stay
+buffer[759] -> judging -> he
+buffer[760] -> the
+buffer[761] -> the
 buffer[762]
-buffer[763]####
-buffer[764]#
-buffer[765]#
-buffer[766]####
-buffer[767]######
-buffer[768]####
-buffer[769]#
-buffer[770]###
-buffer[771]###
-buffer[772]###
-buffer[773]#####
-buffer[774]##
-buffer[775]####
-buffer[776]#
-buffer[777]##
-buffer[778]#######
-buffer[779]##
-buffer[780]###
-buffer[781]##
-buffer[782]####
-buffer[783]####
-buffer[784]#
-buffer[785]##
-buffer[786]##
-buffer[787]###
-buffer[788]#####
+buffer[763] -> when -> hanged -> signs -> is
+buffer[764] -> i
+buffer[765] -> a
+buffer[766] -> for -> ve -> was -> the
+buffer[767] -> the -> as -> how -> one -> then -> days
+buffer[768] -> largest -> smell -> his -> activity
+buffer[769] -> to
+buffer[770] -> everyone -> the -> more
+buffer[771] -> face -> a -> house
+buffer[772] -> in -> at -> removing
+buffer[773] -> little -> villagers -> frank -> had -> you
+buffer[774] -> around -> the
+buffer[775] -> been -> than -> it -> then
+buffer[776] -> spreading
+buffer[777] -> had -> their
+buffer[778] -> impressive -> returned -> kitchen -> groped -> his -> we -> witch
+buffer[779] -> key -> stand
+buffer[780] -> been -> tormented -> his
+buffer[781] -> a -> it
+buffer[782] -> police -> reasons -> kitchen -> the
+buffer[783] -> as -> brandishing -> entered -> the
+buffer[784] -> frank
+buffer[785] -> or -> it
+buffer[786] -> of -> no
+buffer[787] -> saw -> all -> more
+buffer[788] -> police -> the -> had -> closer -> plan
 buffer[789]
-buffer[790]#####
-buffer[791]#
-buffer[792]#
-buffer[793]#####
+buffer[790] -> cook -> to -> had -> started -> me
+buffer[791] -> now
+buffer[792] -> his
+buffer[793] -> same -> t -> with -> way -> were
 buffer[794]
-buffer[795]###
-buffer[796]#
-buffer[797]######
-buffer[798]#
-buffer[799]##
-buffer[800]#
+buffer[795] -> hard -> with -> police
+buffer[796] -> riddle
+buffer[797] -> eyes -> care -> awoke -> up -> better -> the
+buffer[798] -> said
+buffer[799] -> run -> though
+buffer[800] -> had
 buffer[801]
-buffer[802]######
-buffer[803]####
-buffer[804]#######
-buffer[805]#
-buffer[806]#
-buffer[807]#####
-buffer[808]#####
-buffer[809]#
-buffer[810]####
-buffer[811]###
-buffer[812]##
-buffer[813]###
-buffer[814]###
-buffer[815]###
-buffer[816]###
-buffer[817]##
-buffer[818]###
-buffer[819]###
-buffer[820]####
-buffer[821]##
-buffer[822]##
-buffer[823]######
-buffer[824]######
-buffer[825]#
-buffer[826]#
-buffer[827]##
-buffer[828]####
-buffer[829]##
-buffer[830]####
-buffer[831]#####
-buffer[832]#
-buffer[833]#
-buffer[834]##
-buffer[835]####
-buffer[836]#
-buffer[837]##
-buffer[838]###
-buffer[839]#
-buffer[840]#
-buffer[841]##
-buffer[842]##
-buffer[843]###
-buffer[844]####
-buffer[845]#
-buffer[846]##
-buffer[847]##
-buffer[848]##
-buffer[849]#####
-buffer[850]####
-buffer[851]##
-buffer[852]##
-buffer[853]###
-buffer[854]##
-buffer[855]##
-buffer[856]##
-buffer[857]#
-buffer[858]##
+buffer[802] -> half -> all -> village -> nevertheless -> was -> become
+buffer[803] -> the -> anyone -> only -> menace
+buffer[804] -> didn -> them -> to -> he -> two -> his
+buffer[805] -> nothing
+buffer[806] -> a
+buffer[807] -> house -> i -> was -> brow -> to
+buffer[808] -> rewarded -> bryce -> boys -> neck -> of
+buffer[809] -> back
+buffer[810] -> i -> and -> the -> as
+buffer[811] -> sherry -> hanging -> that
+buffer[812] -> and -> done
+buffer[813] -> same -> murderer -> grounds
+buffer[814] -> village -> door -> perhaps
+buffer[815] -> had -> they -> into
+buffer[816] -> and -> clear -> if
+buffer[817] -> days -> key
+buffer[818] -> discuss -> frank -> started
+buffer[819] -> the -> and
+buffer[820] -> very -> bewilderment -> leave -> old
+buffer[821] -> there -> their
+buffer[822] -> of -> week
+buffer[823] -> of -> who -> haired -> broke -> kitchen -> night
+buffer[824] -> its -> what -> been -> family -> the -> up
+buffer[825] -> and
+buffer[826] -> across
+buffer[827] -> killed -> grounds
+buffer[828] -> riddle -> offered -> the -> boy
+buffer[829] -> strange -> ear
+buffer[830] -> in -> don -> broken -> leg
+buffer[831] -> many -> came -> wrong -> the -> had
+buffer[832] -> doctors
+buffer[833] -> strangles
+buffer[834] -> long -> worked
+buffer[835] -> plainly -> times -> flickering -> a
+buffer[836] -> lord
+buffer[837] -> arrested -> horrible
+buffer[838] -> limped -> upon -> little
+buffer[839] -> and
+buffer[840] -> had
+buffer[841] -> cottage -> ear
+buffer[842] -> the -> wait
+buffer[843] -> him -> will -> his
+buffer[844] -> forced -> him -> in -> my
+buffer[845] -> nothing
+buffer[846] -> and -> be
+buffer[847] -> tend -> and
+buffer[848] -> kept -> to
+buffer[849] -> riddle -> he -> seen -> once -> rush
+buffer[850] -> over -> punish -> and -> security
+buffer[851] -> the -> ear
+buffer[852] -> snobbish -> it
+buffer[853] -> something -> again -> find
+buffer[854] -> their -> the
+buffer[855] -> villagers -> about
+buffer[856] -> had -> up
+buffer[857] -> feet
+buffer[858] -> full -> now
 buffer[859]
-buffer[860]#
-buffer[861]#
-buffer[862]#
+buffer[860] -> his
+buffer[861] -> the
+buffer[862] -> harmed
 buffer[863]
-buffer[864]######
-buffer[865]######
-buffer[866]###
-buffer[867]##
-buffer[868]##
-buffer[869]###
-buffer[870]#####
+buffer[864] -> been -> to -> on -> house -> the -> know
+buffer[865] -> been -> that -> s -> the -> hear
+buffer[866] -> little -> not -> me
+buffer[867] -> he -> perfect
+buffer[868] -> morning -> in
+buffer[869] -> miles -> had -> didn
+buffer[870] -> the -> frank -> old -> door
 buffer[871]
-buffer[872]#
-buffer[873]##
-buffer[874]#
-buffer[875]##
-buffer[876]#
-buffer[877]#
-buffer[878]#
-buffer[879]##
-buffer[880]###
-buffer[881]#####
-buffer[882]####
-buffer[883]####
-buffer[884]#
-buffer[885]##
-buffer[886]######
-buffer[887]##
-buffer[888]##
-buffer[889]##
-buffer[890]###
-buffer[891]#
-buffer[892]##
-buffer[893]###
-buffer[894]##
-buffer[895]#
-buffer[896]###
-buffer[897]##
-buffer[898]#
-buffer[899]####
-buffer[900]###
-buffer[901]##
-buffer[902]###
-buffer[903]##
-buffer[904]####
-buffer[905]#
-buffer[906]##
-buffer[907]#
-buffer[908]##
+buffer[872] -> and
+buffer[873] -> was -> boys
+buffer[874] -> manor
+buffer[875] -> and -> my
+buffer[876] -> summer
+buffer[877] -> such
+buffer[878] -> though
+buffer[879] -> new -> assumed
+buffer[880] -> unfriendly -> wormtail -> to
+buffer[881] -> derelict -> to -> it -> this -> done
+buffer[882] -> riddles -> down -> nervously -> then
+buffer[883] -> leg -> when -> the -> nasty
+buffer[884] -> and
+buffer[885] -> a -> cold
+buffer[886] -> before -> and -> frank -> was -> of
+buffer[887] -> they -> hungry
+buffer[888] -> now -> certainly
+buffer[889] -> he -> any
+buffer[890] -> of -> frank
+buffer[891] -> by
+buffer[892] -> however -> was
+buffer[893] -> announced -> windows -> country
+buffer[894] -> when -> allow
+buffer[895] -> boy
+buffer[896] -> the -> his -> ears
+buffer[897] -> meddler -> i
+buffer[898] -> understand
+buffer[899] -> embroidered -> the -> pushing -> two
+buffer[900] -> frank -> then -> lost
+buffer[901] -> corner -> the
+buffer[902] -> had -> cup -> determined
+buffer[903] -> t -> until
+buffer[904] -> picked -> people -> bottle -> noise
+buffer[905] -> he
+buffer[906] -> repeating -> by
+buffer[907] -> like
+buffer[908] -> frank -> would
 buffer[909]
-buffer[910]#
-buffer[911]###
-buffer[912]#
-buffer[913]#####
-buffer[914]##
-buffer[915]###
-buffer[916]#
-buffer[917]######
+buffer[910] -> had
+buffer[911] -> great -> the -> d
+buffer[912] -> came
+buffer[913] -> and -> murdered -> had -> to -> more
+buffer[914] -> riddle -> and
+buffer[915] -> you -> the -> without
+buffer[916] -> in
+buffer[917] -> that -> dark -> windows -> filling -> moment -> be
 buffer[918]
-buffer[919]#
-buffer[920]#
-buffer[921]###
-buffer[922]##
-buffer[923]##
-buffer[924]###
-buffer[925]#
-buffer[926]####
-buffer[927]#
-buffer[928]##
-buffer[929]##
-buffer[930]#
-buffer[931]##
-buffer[932]####
-buffer[933]####
-buffer[934]#
-buffer[935]#
-buffer[936]#
+buffer[919] -> nearing
+buffer[920] -> the
+buffer[921] -> a -> in -> very
+buffer[922] -> riddles -> though
+buffer[923] -> a -> windows
+buffer[924] -> a -> who -> in
+buffer[925] -> disrepair
+buffer[926] -> though -> to -> lordship -> sounding
+buffer[927] -> some
+buffer[928] -> excitement -> a
+buffer[929] -> the -> passage
+buffer[930] -> at
+buffer[931] -> for -> we
+buffer[932] -> did -> and -> nostrils -> tightened
+buffer[933] -> village -> curiosity -> who -> quietly
+buffer[934] -> his
+buffer[935] -> a
+buffer[936] -> said
 buffer[937]
-buffer[938]###
-buffer[939]#
-buffer[940]###
-buffer[941]###
-buffer[942]#####
-buffer[943]######
-buffer[944]#####
-buffer[945]#
-buffer[946]##
-buffer[947]#
-buffer[948]####
-buffer[949]#
-buffer[950]##
-buffer[951]######
-buffer[952]#
-buffer[953]####
-buffer[954]##
-buffer[955]#
-buffer[956]#
-buffer[957]#
-buffer[958]###
-buffer[959]#
-buffer[960]##
-buffer[961]###
+buffer[938] -> from -> chair -> walking
+buffer[939] -> and
+buffer[940] -> of -> all -> the
+buffer[941] -> place -> of -> my
+buffer[942] -> had -> it -> case -> her -> place
+buffer[943] -> over -> his -> a -> of -> and -> all
+buffer[944] -> anymore -> ice -> had -> do -> it
+buffer[945] -> he
+buffer[946] -> nasty -> that
+buffer[947] -> were
+buffer[948] -> in -> blast -> said -> secret
+buffer[949] -> cold
+buffer[950] -> it -> because
+buffer[951] -> had -> a -> night -> his -> him -> the
+buffer[952] -> the
+buffer[953] -> frank -> shone -> voice -> squeakily
+buffer[954] -> riddles -> a
+buffer[955] -> i
+buffer[956] -> very
+buffer[957] -> its
+buffer[958] -> cried -> a -> stones
+buffer[959] -> we
+buffer[960] -> odd -> lord
+buffer[961] -> up -> the -> in
 buffer[962]
-buffer[963]##
-buffer[964]##
-buffer[965]##
-buffer[966]#
-buffer[967]##
-buffer[968]#
-buffer[969]##
-buffer[970]###
-buffer[971]###
-buffer[972]##
-buffer[973]##
-buffer[974]#
-buffer[975]###
-buffer[976]###
-buffer[977]##
-buffer[978]#####
-buffer[979]##
-buffer[980]#
-buffer[981]##
-buffer[982]##
-buffer[983]######
-buffer[984]##
-buffer[985]######
+buffer[963] -> heard -> absence
+buffer[964] -> upon -> should
+buffer[965] -> did -> in
+buffer[966] -> in
+buffer[967] -> to -> a
+buffer[968] -> to
+buffer[969] -> rush -> will
+buffer[970] -> house -> her -> dot
+buffer[971] -> open -> stranger -> forcing
+buffer[972] -> the -> still
+buffer[973] -> quidditch -> frank
+buffer[974] -> this
+buffer[975] -> birthday -> was -> i
+buffer[976] -> he -> the -> not
+buffer[977] -> still -> while
+buffer[978] -> if -> then -> he -> and -> the
+buffer[979] -> serious -> potter
+buffer[980] -> run
+buffer[981] -> leg -> of
+buffer[982] -> death -> door
+buffer[983] -> croakily -> fast -> his -> any -> the -> lord
+buffer[984] -> too -> yet
+buffer[985] -> in -> thought -> villagers -> the -> an
 buffer[986]
-buffer[987]###
-buffer[988]###
-buffer[989]####
-buffer[990]###
-buffer[991]#####
-buffer[992]#
-buffer[993]##
-buffer[994]###
-buffer[995]###
-buffer[996]#
-buffer[997]##
-buffer[998]##
-buffer[999]#####
+buffer[987] -> into -> house -> the
+buffer[988] -> of -> said -> for
+buffer[989] -> discuss -> i -> which -> man
+buffer[990] -> the -> but
+buffer[991] -> riddle -> fact -> then -> had -> a
+buffer[992] -> bryce
+buffer[993] -> he -> the
+buffer[994] -> the -> still -> m
+buffer[995] -> again -> where -> that
+buffer[996] -> this
+buffer[997] -> age -> him
+buffer[998] -> they -> spoke
+buffer[999] -> there -> had -> was -> muggles

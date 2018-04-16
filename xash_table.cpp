@@ -1,17 +1,27 @@
 
 #include<stdio.h>
+#include<string.h>
 #include<iostream>
 #include<locale>
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ START OF DEFINES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
-#define DEBUG( debug_info )		if(1 == 1) printf(debug_info);
+#define DEBUG( debug_info )		if(1 == 0) printf(debug_info);
 
 
 #define WRITE_NODE														\
 			while(cur_node->next != NULL)								\
+			{															\
+				if(strcmp(cur_node->buffer, &my_buff[cur_pos]) == 0)		\
+				{														\
+					cur_node->counter++;								\
+					need_create = false;								\
+				}														\
 				cur_node = cur_node->next;								\
-			cur_node = node_creator(my_buff, cur_pos, cur_node);		\
+			}															\
+																		\
+			if(need_create == true)										\
+				cur_node = node_creator(my_buff, cur_pos, cur_node);	\
 			while(my_buff[cur_pos] != '\0')								\
 				cur_pos++;												\
 
@@ -105,34 +115,35 @@ int main()
 
 	class xash_node* first_hash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ONE);
 	DEBUG("xash 1 generated \n")
-	printf(" ## %s ## \n", main_buffer->buffer);
-	hash_printer("HASH_1.txt", first_hash, GRAPH_TYPE);
+	hash_printer("HASH_1.txt", first_hash, WORDS_TYPE);
 	DEBUG("xash 1 printed \n")
 
 	class xash_node* second_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ALPHABET);
 	DEBUG("xash 2 generated \n")
-	hash_printer("HASH_2.txt", second_xash, GRAPH_TYPE);
+	hash_printer("HASH_2.txt", second_xash, WORDS_TYPE);
 	DEBUG("xash 2 printed \n")
 
 	class xash_node* thrid_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_LEN);
 	DEBUG("xash 3 generated \n")
-	hash_printer("HASH_3.txt", thrid_xash, GRAPH_TYPE);
+	hash_printer("HASH_3.txt", thrid_xash, WORDS_TYPE);
 	DEBUG("xash 3 printed \n")
 
 	class xash_node* fourth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ASCII_SYM);
 	DEBUG("xash 4 generated \n")
-	hash_printer("HASH_4.txt", fourth_xash, GRAPH_TYPE);
+	exel_printer("HASH_4_exel.csv", fourth_xash);
+	hash_printer("HASH_4.txt", fourth_xash, WORDS_TYPE);
 	DEBUG("xash 4 printed \n")
 
 	class xash_node* fiveth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_GNU);
 	DEBUG("xash 5 generated \n")
-	hash_printer("HASH_5.txt", fiveth_xash, GRAPH_TYPE);
+	exel_printer("HASH_5_exel.csv", fiveth_xash);
+	hash_printer("HASH_5.txt", fiveth_xash, WORDS_TYPE);
 	DEBUG("xash 5 printed \n")
 
 	class xash_node* sixth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_GNU);
 	DEBUG("xash 6 generated \n")
-	exel_printer("HASH_6.csv", sixth_xash);
-	hash_printer("HASH_6.txt", sixth_xash, GRAPH_TYPE);
+	exel_printer("HASH_6_exel.csv", sixth_xash);
+	hash_printer("HASH_6.txt", sixth_xash, WORDS_TYPE);
 	DEBUG("xash 6 printed \n")
 
 	
@@ -245,11 +256,15 @@ class xash_node* xash_gen(char *my_buff, long int buffer_size, int xash_type)
 	unsigned int bit_saver = 0;
 	int ascii_sym = 0;
 
+	bool need_create = true;
+
 	class xash_node* xash_massive = new class xash_node[Max_massive_size];
 	class xash_node* cur_node = NULL;
 
 	while(cur_pos != buffer_size)
 	{
+		need_create = true;
+	
 		if(my_buff[cur_pos] != '\0' && xash_type == IN_ONE)
 		{
 			cur_node = &xash_massive[Max_massive_size / 2];
@@ -283,8 +298,8 @@ class xash_node* xash_gen(char *my_buff, long int buffer_size, int xash_type)
 
 			while(my_buff[len_pos] != '\0')
 			{
-				len_pos++;
 				ascii_sym = ascii_sym + my_buff[len_pos];
+				len_pos++;
 			}
 
 			ascii_sym = ascii_sym - ascii_sym / Max_massive_size * Max_massive_size;
