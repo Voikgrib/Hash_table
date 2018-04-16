@@ -140,7 +140,7 @@ int main()
 	hash_printer("HASH_5.txt", fiveth_xash, WORDS_TYPE);
 	DEBUG("xash 5 printed \n")
 
-	class xash_node* sixth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_GNU);
+	class xash_node* sixth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_MAGIC);
 	DEBUG("xash 6 generated \n")
 	exel_printer("HASH_6_exel.csv", sixth_xash);
 	hash_printer("HASH_6.txt", sixth_xash, WORDS_TYPE);
@@ -148,7 +148,7 @@ int main()
 
 	
 	delete [] main_buffer->buffer;
-	delete main_buffer;
+	delete main_buffer;ы
 	delete [] first_hash;
 	delete [] second_xash;
 	delete [] thrid_xash;
@@ -319,7 +319,7 @@ class xash_node* xash_gen(char *my_buff, long int buffer_size, int xash_type)
 
 			WRITE_NODE
 		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_GNU)
+		else if(my_buff[cur_pos] != '\0' && xash_type == IN_MAGIC)
 		{
 			DEBUG("6 hash test\n");
 			bit_saver = 1;
