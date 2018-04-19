@@ -6,7 +6,7 @@
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ START OF DEFINES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
-#define DEBUG( debug_info )		if(1 == 0) printf(debug_info);
+#define DEBUG( debug_info )		if(1 == 1) printf(debug_info);
 
 
 #define WRITE_NODE														\
@@ -29,13 +29,6 @@
 #define WORDS_TYPE		33
 #define GRAPH_TYPE		66
 
-
-#define IN_ONE			10
-#define IN_ALPHABET		20
-#define IN_LEN			30
-#define IN_ASCII_SYM	40
-#define IN_GNU			50
-#define IN_MAGIC		60
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ END OF DEFINES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
@@ -86,10 +79,12 @@ class xash_node
 	}
 };
 
+#include "hash_lib.h"
+
 class c_buffer *buffer_get(void);
 
 class xash_node* node_creator(char *my_buff, int buf_pos, class xash_node* cur_node);
-class xash_node* xash_gen(char *my_buff, long int buffer_size, int xash_type);
+class xash_node* xash_gen(char *my_buff, long int buffer_size, class xash_node* (*hash_func) (char*, unsigned long int, class xash_node*));
 
 long int get_file_size(FILE *text);
 long int file_read(FILE *text, long int size_of_text, char* my_buff);
@@ -113,34 +108,34 @@ int main()
 
 	// Hash generate here
 
-	class xash_node* first_hash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ONE);
+	class xash_node* first_hash = xash_gen(main_buffer->buffer, main_buffer->size, stupid_hash);
 	DEBUG("xash 1 generated \n")
 	hash_printer("HASH_1.txt", first_hash, WORDS_TYPE);
 	DEBUG("xash 1 printed \n")
 
-	class xash_node* second_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ALPHABET);
+	class xash_node* second_xash = xash_gen(main_buffer->buffer, main_buffer->size, alphabet_hash);
 	DEBUG("xash 2 generated \n")
 	hash_printer("HASH_2.txt", second_xash, WORDS_TYPE);
 	DEBUG("xash 2 printed \n")
 
-	class xash_node* thrid_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_LEN);
+	class xash_node* thrid_xash = xash_gen(main_buffer->buffer, main_buffer->size, lengh_hash);
 	DEBUG("xash 3 generated \n")
 	hash_printer("HASH_3.txt", thrid_xash, WORDS_TYPE);
 	DEBUG("xash 3 printed \n")
 
-	class xash_node* fourth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_ASCII_SYM);
+	class xash_node* fourth_xash = xash_gen(main_buffer->buffer, main_buffer->size, ascii_hash);
 	DEBUG("xash 4 generated \n")
 	exel_printer("HASH_4_exel.csv", fourth_xash);
 	hash_printer("HASH_4.txt", fourth_xash, WORDS_TYPE);
 	DEBUG("xash 4 printed \n")
 
-	class xash_node* fiveth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_GNU);
+	class xash_node* fiveth_xash = xash_gen(main_buffer->buffer, main_buffer->size, gnu_hash);
 	DEBUG("xash 5 generated \n")
 	exel_printer("HASH_5_exel.csv", fiveth_xash);
 	hash_printer("HASH_5.txt", fiveth_xash, WORDS_TYPE);
 	DEBUG("xash 5 printed \n")
 
-	class xash_node* sixth_xash = xash_gen(main_buffer->buffer, main_buffer->size, IN_MAGIC);
+	class xash_node* sixth_xash = xash_gen(main_buffer->buffer, main_buffer->size, roll_hash);
 	DEBUG("xash 6 generated \n")
 	exel_printer("HASH_6_exel.csv", sixth_xash);
 	hash_printer("HASH_6.txt", sixth_xash, WORDS_TYPE);
@@ -148,7 +143,7 @@ int main()
 
 	
 	delete [] main_buffer->buffer;
-	delete main_buffer;ы
+	delete main_buffer;
 	delete [] first_hash;
 	delete [] second_xash;
 	delete [] thrid_xash;
@@ -247,89 +242,26 @@ void hash_printer(char *name_of_file, class xash_node* cur_node, int print_type)
 //! @param[in] long int buffer_size - длина буфера
 //!
 //---------------------------------------------------------------------
-class xash_node* xash_gen(char *my_buff, long int buffer_size, int xash_type)
+class xash_node* xash_gen(char *my_buff, long int buffer_size, class xash_node* (*hash_func)(char*, unsigned long int, class xash_node*))
 {
-	long int cur_pos = 0;
-	long int len_pos = 0;
-	unsigned long int gnu_const = 5381;
-	unsigned int roll_xash = 0;
-	unsigned int bit_saver = 0;
-	int ascii_sym = 0;
-
-	bool need_create = true;
+	unsigned long int cur_pos = 0;
 
 	class xash_node* xash_massive = new class xash_node[Max_massive_size];
 	class xash_node* cur_node = NULL;
 
+	bool need_create = true;
+
 	while(cur_pos != buffer_size)
 	{
 		need_create = true;
+
+		if(my_buff[cur_pos] != '\0')
+		{
+
+			cur_node = hash_func(my_buff, cur_pos, xash_massive);
 	
-		if(my_buff[cur_pos] != '\0' && xash_type == IN_ONE)
-		{
-			cur_node = &xash_massive[Max_massive_size / 2];
-
-			WRITE_NODE
-		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_ALPHABET)
-		{
-			DEBUG("2 hash test\n");
-			cur_node = &xash_massive[my_buff[cur_pos]];
-
-			WRITE_NODE
-		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_LEN)
-		{
-			DEBUG("3 hash test\n");
-			len_pos = cur_pos;
-
-			while(my_buff[len_pos] != '\0')
-				len_pos++;
-
-			cur_node = &xash_massive[len_pos - cur_pos];
-
-			WRITE_NODE
-		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_ASCII_SYM)
-		{
-			DEBUG("4 hash test\n");
-			len_pos = cur_pos;
-			ascii_sym = 0;
-
-			while(my_buff[len_pos] != '\0')
-			{
-				ascii_sym = ascii_sym + my_buff[len_pos];
-				len_pos++;
-			}
-
-			ascii_sym = ascii_sym - ascii_sym / Max_massive_size * Max_massive_size;
-
-			cur_node = &xash_massive[ascii_sym];
-
-			WRITE_NODE
-		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_GNU)
-		{
-			DEBUG("5 hash test\n");
-
-			gnu_const = ((gnu_const << 5) + gnu_const) + my_buff[cur_pos];
-			gnu_const = gnu_const - gnu_const / Max_massive_size * Max_massive_size;
+//!!!!  HASH VIZOV
 			
-			cur_node = &xash_massive[gnu_const];
-
-			WRITE_NODE
-		}
-		else if(my_buff[cur_pos] != '\0' && xash_type == IN_MAGIC)
-		{
-			DEBUG("6 hash test\n");
-			bit_saver = 1;
-
-			bit_saver = (roll_xash << 1) & bit_saver;
-			roll_xash = (roll_xash | bit_saver) ^ my_buff[cur_pos];
-			
-			roll_xash = roll_xash - roll_xash / Max_massive_size * Max_massive_size;
-
-			cur_node = &xash_massive[roll_xash];
 
 			WRITE_NODE
 		}
