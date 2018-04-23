@@ -6,13 +6,57 @@
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ START OF DEFINES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
-#define DEBUG( debug_info )		if(1 == 1) printf(debug_info);
+#define DEBUG( debug_info )		if(1 == 0) printf(debug_info);
+
+
 
 
 #define WRITE_NODE														\
 			while(cur_node->next != NULL)								\
 			{															\
-				if(strcmp(cur_node->buffer, &my_buff[cur_pos]) == 0)		\
+				asm														\
+				(														\
+					".intel_syntax noprefix;"							\
+					"mov bl, [rax];"									\
+					"mov bh, [rsi];"									\
+					"mov cl, 0;"										\
+																		\
+					"cmp bl, bh;"										\
+					"jne BAD_END;"										\
+					"cmp bl, cl;"										\
+					"je GOOD_END;"										\
+					"cmp bh, cl;"										\
+					"je GOOD_END;"										\
+																		\
+				"SYCLE_START: "											\
+																		\
+					"add rax, 1;"										\
+					"add rsi, 1;"										\
+																		\
+					"mov bl, [rax];"									\
+					"mov bh, [rsi];"									\
+																		\
+					"cmp bl, cl;"										\
+					"je GOOD_END;"										\
+					"cmp bh, cl;"										\
+					"je GOOD_END;"										\
+																		\
+					"cmp bl, bh;"										\
+					"je SYCLE_START;"									\
+																		\
+				"BAD_END: "												\
+					"mov rax, 1;"										\
+					"jmp END_1;"										\
+																		\
+				"GOOD_END: "											\
+					"mov rax, 0;"										\
+																		\
+				"END_1: "												\
+					".att_syntax prefix;"								\
+					:"=r"(otvet)										\
+					:"S" (cur_node->buffer), "a" (&my_buff[cur_pos])	\
+				);														\
+				if(otvet == 0)											\
 				{														\
 					cur_node->counter++;								\
 					need_create = false;								\
@@ -250,6 +294,7 @@ class xash_node* xash_gen(char *my_buff, long int buffer_size, class xash_node* 
 	class xash_node* cur_node = NULL;
 
 	bool need_create = true;
+	char otvet = 1;
 
 	while(cur_pos != buffer_size)
 	{
@@ -259,8 +304,6 @@ class xash_node* xash_gen(char *my_buff, long int buffer_size, class xash_node* 
 		{
 
 			cur_node = hash_func(my_buff, cur_pos, xash_massive);
-	
-//!!!!  HASH VIZOV
 			
 
 			WRITE_NODE
